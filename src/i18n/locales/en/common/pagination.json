@@ -1,0 +1,8 @@
+{
+  "items": "{{count}} items",
+  "items_per_page": "Items per page",
+  "next": "Next page",
+  "page_of": "Page {{page}} of {{pages}}",
+  "previous": "Previous page",
+  "range": "{{start}} to {{end}} of {{total}}"
+}

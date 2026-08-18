@@ -1,0 +1,12 @@
+{
+  "a_confirmation_link_has_been_sent_open_it_to_activate_your_account_and_secure_da": "Un lien de confirmation a été envoyé. Cliquez sur ce lien pour activer votre compte et sécuriser la synchronisation de vos données.",
+  "a_new_email_was_sent": "Un nouveau courriel a été envoyé.",
+  "back_to_website": "Retour au site",
+  "i_confirmed_my_email": "J’ai confirmé mon courriel",
+  "missing_email": "Adresse manquante",
+  "resend_email": "Renvoyer le courriel",
+  "return_to_registration_and_enter_your_email_address": "Retournez à l’inscription et saisissez votre adresse courriel.",
+  "sending": "Envoi…",
+  "unable_to_send": "Envoi impossible",
+  "verify_your_email": "Vérifiez votre courriel"
+}

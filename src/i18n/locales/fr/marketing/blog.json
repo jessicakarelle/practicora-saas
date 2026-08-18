@@ -1,0 +1,20 @@
+{
+  "methodology_organization_reports_and_career_useful_content_written_to_be_applied": "Méthodologie, organisation, rapports et carrière : des contenus utiles, écrits pour être appliqués.",
+  "practical_guides_to_document_your_internship_better": "Des guides concrets pour mieux documenter votre stage.",
+  "read_article": "Lire l’article",
+  "resources": "Ressources",
+  "metadata_title": "Ressources sur les stages",
+  "metadata_description": "Guides pratiques sur le journal de stage, les heures, les rapports et le portfolio étudiant.",
+  "filters": "Filtres des articles",
+  "result_count": "{{count}} articles",
+  "clear_filters": "Effacer les filtres",
+  "search_placeholder": "Rechercher des articles…",
+  "all_categories": "Toutes les catégories",
+  "all_reading_times": "Toutes les durées",
+  "reading_short": "5 minutes ou moins",
+  "reading_medium": "6 à 10 minutes",
+  "reading_long": "Plus de 10 minutes",
+  "sort_newest": "Plus récents",
+  "sort_oldest": "Plus anciens",
+  "sort_reading": "Lecture la plus courte"
+}

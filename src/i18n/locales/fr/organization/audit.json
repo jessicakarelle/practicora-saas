@@ -1,0 +1,8 @@
+{
+  "audit_log": "Journal d’audit",
+  "en_ca": "fr-CA",
+  "keep_a_record_of_invitations_role_changes_approvals_exports_and_administrative_a": "Conservez une trace des invitations, changements de rôles, approbations, exports et actions administratives.",
+  "no_audit_events": "Aucun événement",
+  "search_action": "Rechercher une action…",
+  "sensitive_actions_will_appear_here_after_the_institutional_schema_is_configured": "Les actions sensibles apparaîtront ici après la configuration du schéma institutionnel."
+}

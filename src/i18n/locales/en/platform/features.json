@@ -1,0 +1,11 @@
+{
+  "autosave": "Every change is saved immediately and audited.",
+  "description": "Gradually enable sensitive capabilities and control their rollout percentage.",
+  "disabled": "Disabled",
+  "enabled": "Enabled",
+  "operation_failed": "Unable to update the feature.",
+  "rollout": "Rollout",
+  "rollout_help": "Percentage of eligible accounts receiving this feature.",
+  "saved": "Feature flag updated.",
+  "title": "Feature rollout"
+}

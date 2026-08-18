@@ -1,0 +1,20 @@
+{
+  "account_gate": "Global conta gate",
+  "account_gate_description": "UM suspension é enforced por um restrictive RLS policy across application dados.",
+  "account_status": "Seu status da conta",
+  "critical_permissions": "Crítico permissões",
+  "critical_permissions_description": "Suspensions, funções, publishing, suporte, e dados ações require dedicated permissão e generate um auditoria event.",
+  "database_enforcement": "PostgreSQL-level enforcement",
+  "description": "Monitor suspended accounts, crítico permissões e temporary suporte sessões.",
+  "last_owner": "Last-owner proteção",
+  "last_owner_description": "O último Direção da plataforma função cannot ser removed.",
+  "permissions_count": "{{count}} ativo permissões",
+  "recommendation": "Use service_função apenas inside server functions e require reauthentication para o most sensível ações.",
+  "rls_enabled": "Restrictive RLS policies",
+  "roles_count": "{{count}} plataforma funções",
+  "service_role": "Server-side privileged keys",
+  "service_role_description": "Administrative Auth operações deve remain em um secured server function.",
+  "support_sessions": "Controlled suporte sessões",
+  "support_sessions_description": "Acesso para private dados requires um motivo, um tempo limit e um concluir auditoria trail.",
+  "title": "Plataforma segurança"
+}

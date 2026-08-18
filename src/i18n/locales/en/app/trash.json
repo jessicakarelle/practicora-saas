@@ -1,0 +1,13 @@
+{
+  "delete": "Delete",
+  "delete_permanently": "Delete permanently?",
+  "delete_permanently_2": "Delete permanently",
+  "deleted_entries_goals_and_notes_will_appear_here": "Deleted entries, goals and notes will appear here.",
+  "en_ca": "en-CA",
+  "item_restored": "Item restored.",
+  "keep": "Keep",
+  "restore": "Restore",
+  "restore_accidentally_deleted_items_or_permanently_remove_them_with_a_clear_confi": "Restore accidentally deleted items or permanently remove them with a clear confirmation.",
+  "trash": "Trash",
+  "trash_is_empty": "Trash is empty"
+}

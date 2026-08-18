@@ -1,0 +1,23 @@
+{
+  "billing_mode": "Abrechnung enforcement mode",
+  "billing_section": "Abrechnung",
+  "currency": "Primary Währung",
+  "data_section": "Daten und Aufbewahrung",
+  "days": "Tage",
+  "deletion_grace": "Deletion grace Zeitraum",
+  "description": "Global Sicherheit, Abrechnung, Aufbewahrung und SaaS behavior Einstellungen.",
+  "enforce": "Enforce limits",
+  "export_expiry": "Exportieren expiry",
+  "manual": "Manual",
+  "minutes": "minutes",
+  "observe": "Observe ohne blocking",
+  "provider": "Zahlung provider",
+  "read_only": "Read nur",
+  "save_error": "Nicht möglich zu speichern Konfiguration.",
+  "saved": "Konfiguration gespeichert.",
+  "saved_automatically": "Changes wird sein automatisch gespeichert when der Konfiguration connector ist aktiviert.",
+  "security_section": "Sicherheit",
+  "stripe": "Stripe",
+  "support_duration": "Standard Support Sitzung duration",
+  "title": "Plattform Konfiguration"
+}

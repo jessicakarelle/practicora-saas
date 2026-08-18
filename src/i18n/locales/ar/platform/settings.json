@@ -1,0 +1,23 @@
+{
+  "billing_mode": "الفوترة enforcement mode",
+  "billing_section": "الفوترة",
+  "currency": "Primary العملة",
+  "data_section": "البيانات و الاحتفاظ",
+  "days": "الأيام",
+  "deletion_grace": "Deletion grace الفترة",
+  "description": "عالمي الأمان, الفوترة, الاحتفاظ و SaaS behavior الإعدادات.",
+  "enforce": "Enforce limits",
+  "export_expiry": "تصدير expiry",
+  "manual": "Manual",
+  "minutes": "minutes",
+  "observe": "Observe بدون blocking",
+  "provider": "الدفع provider",
+  "read_only": "Read فقط",
+  "save_error": "تعذر إلى حفظ الإعداد.",
+  "saved": "الإعداد محفوظ.",
+  "saved_automatically": "Changes سوف يكون محفوظ تلقائيًا when ال الإعداد connector هو مفعّل.",
+  "security_section": "الأمان",
+  "stripe": "Stripe",
+  "support_duration": "افتراضي الدعم الجلسة duration",
+  "title": "المنصة الإعداد"
+}

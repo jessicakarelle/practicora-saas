@@ -1,0 +1,21 @@
+{
+  "at_risk_placements": "At-risk Einsätze",
+  "average_completion": "Durchschnitt completion",
+  "completion": "Completion",
+  "distribution_of_drafts_submissions_changes_and_approvals": "Distribution von Entwürfe, submissions, changes und approvals.",
+  "hours_completion": "Stunden completion",
+  "institution_analytics": "Institution Analysen",
+  "no_placements_to_analyze": "Keine Einsätze zu analyze.",
+  "no_reports_to_analyze": "Keine Berichte zu analyze.",
+  "percentage_of_required_placement_hours": "Percentage von erforderlich Einsatz Stunden.",
+  "report_statuses": "Bericht statuses",
+  "reports_to_process": "Berichte zu process",
+  "students": "Studierende",
+  "turn_hours_submissions_and_approvals_into_progress_indicators_without_exposing_o": "Turn Stunden, submissions und approvals into Fortschritt indicators ohne exposing one Studierende’s Daten zu another.",
+  "filters": "Analysen Filter",
+  "filtered_summary": "{{placements}} Einsätze und {{reports}} Berichte",
+  "clear_filters": "Filtern zurücksetzen",
+  "search_placeholder": "Suchen Studierende, Unternehmen oder Betreuung…",
+  "all_placement_statuses": "Alle Einsatz statuses",
+  "all_report_statuses": "Alle Bericht statuses"
+}

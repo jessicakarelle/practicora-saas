@@ -1,0 +1,18 @@
+{
+  "cancelled": "ملغى",
+  "custom": "مخصص",
+  "description": "Track شخصي و مؤسسي الاشتراكات, الخطة, الفترة و الدفع الحالة.",
+  "empty": "لا الاشتراكات yet.",
+  "institution": "المؤسسة",
+  "monthly": "monthly",
+  "owner": "Customer",
+  "past_due": "Past due",
+  "personal": "شخصي",
+  "plan": "الخطة",
+  "price": "Price",
+  "renewal": "الفترة end",
+  "status": "الحالة",
+  "title": "الاشتراكات",
+  "trialing": "Trial",
+  "yearly": "yearly"
+}

@@ -1,0 +1,10 @@
+{
+  "at_least_8_characters": "8 caractères minimum",
+  "fair": "Correct",
+  "one_lowercase_letter": "Une minuscule",
+  "one_number": "Un chiffre",
+  "one_uppercase_letter": "Une majuscule",
+  "strength": "Robustesse",
+  "strong": "Solide",
+  "weak": "Faible"
+}

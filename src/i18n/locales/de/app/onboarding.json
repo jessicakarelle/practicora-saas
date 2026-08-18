@@ -1,0 +1,15 @@
+{
+  "workspace_title": "Ihr Arbeitsbereich at ein glance",
+  "workspace_description": "Start mit der Übersicht zu see Fortschritt, priorities und der nächste useful Aktion.",
+  "journal_title": "Document ein workday",
+  "journal_description": "Hinzufügen context, Stunden, Lernen, Aufgaben und Nachweise. Autosave protects jede change.",
+  "analytics_title": "Understand Ihr Fortschritt",
+  "analytics_description": "Use Datum, Kategorie und work-mode Filter zu turn Ihr Tagebuch into zurücksetzen trends.",
+  "reports_title": "Build ein professionell Bericht",
+  "reports_description": "Choose ein concise, standard oder abschließen level so der Bericht stays relevant und readable.",
+  "step": "Step {{current}} von {{total}}",
+  "close": "Schließen der guide",
+  "skip": "Skip für now",
+  "next": "Nächste",
+  "start": "Öffnen dies Seite"
+}

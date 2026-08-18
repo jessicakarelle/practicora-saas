@@ -1,0 +1,16 @@
+{
+  "attachments": "{{count}} archivo adjunto(s)",
+  "cancel": "Cancelar",
+  "create": "Crear un borrador",
+  "delete": "Eliminar",
+  "delete_description": "Este borrador’s local datos y archivos adjuntos se ser deleted.",
+  "delete_title": "Eliminar este borrador?",
+  "description": "Cada nuevo díun es guardado automáticamente until it es published a el diario.",
+  "empty_description": "Start un día y tu changes se ser guardado here automáticamente.",
+  "empty_summary": "Sin resumen has been entered yet.",
+  "empty_title": "Sin borradores en progreso",
+  "new": "Nuevo díun",
+  "resume": "Resume",
+  "title": "Borradores",
+  "untitled": "Untitled día"
+}

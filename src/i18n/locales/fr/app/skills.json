@@ -1,0 +1,10 @@
+{
+  "add_skills_or_technologies_to_entries_to_build_this_view": "Ajoutez des compétences ou technologies dans vos journées pour construire cette vue.",
+  "day_s": "journée(s)",
+  "no_matching_skill": "Aucune compétence correspondante",
+  "no_skills_detected": "Aucune compétence détectée",
+  "search_skills": "Rechercher une compétence ou une technologie",
+  "skills": "Compétences",
+  "skills_and_technologies_are_generated_from_tags_used_in_your_journal": "Les compétences et technologies sont générées à partir des tags utilisés dans votre journal.",
+  "try_another_search": "Essayez un autre terme de recherche."
+}

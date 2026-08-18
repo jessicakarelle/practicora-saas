@@ -1,0 +1,13 @@
+{
+  "description": "Monitor counters dass drive Tarif limits und future capacity needs.",
+  "empty": "Keine Nutzung counters recorded.",
+  "feature": "Funktion",
+  "from_to": "Von {{start}} zu {{end}}",
+  "organization": "Institution",
+  "period": "Zeitraum",
+  "quantity": "Quantity",
+  "subject": "Konto oder Institution",
+  "title": "Nutzung und quotas",
+  "updated": "Updated",
+  "user": "Benutzer"
+}

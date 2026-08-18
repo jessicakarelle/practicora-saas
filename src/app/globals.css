@@ -1,0 +1,561 @@
+@import "tailwindcss" source(none);
+@source "../**/*.{ts,tsx}";
+
+:root {
+  --background: #f5f8fb;
+  --foreground: #172432;
+  --surface: #ffffff;
+  --surface-muted: #edf3f7;
+  --surface-strong: #e5edf3;
+  --border: #d8e2ea;
+  --border-strong: #c6d4df;
+  --primary: #2f6f9f;
+  --primary-strong: #1f4f75;
+  --primary-soft: #e2eef6;
+  --primary-softer: #f0f6fa;
+  --secondary: #4d7e8b;
+  --muted: #607182;
+  --muted-strong: #455666;
+  --success: #2f7d5b;
+  --warning: #a96b1d;
+  --danger: #b74652;
+  --info: #3172a8;
+  --shadow-soft: 0 1px 2px rgba(19, 45, 65, 0.04), 0 8px 24px rgba(19, 45, 65, 0.05);
+  --shadow-float: 0 20px 55px rgba(18, 54, 82, 0.14);
+  --sidebar-bg: #102838;
+  --sidebar-panel: rgba(255,255,255,0.04);
+  --sidebar-border: rgba(255,255,255,0.08);
+  --sidebar-text: #ffffff;
+  --sidebar-muted: rgba(255,255,255,0.40);
+  --sidebar-muted-strong: rgba(255,255,255,0.62);
+  --sidebar-hover: rgba(255,255,255,0.07);
+  --sidebar-active: rgba(255,255,255,0.11);
+  --sidebar-accent-soft: rgba(255,255,255,0.10);
+  --sidebar-indicator: #76b1d5;
+}
+
+.dark {
+  --background: #0d1720;
+  --foreground: #edf4f8;
+  --surface: #14222d;
+  --surface-muted: #182a37;
+  --surface-strong: #203543;
+  --border: #294150;
+  --border-strong: #365366;
+  --primary: #73a9ca;
+  --primary-strong: #9cc4dc;
+  --primary-soft: #1b3a4d;
+  --primary-softer: #132934;
+  --secondary: #80a9b3;
+  --muted: #a5b5c1;
+  --muted-strong: #c2ced7;
+  --shadow-soft: 0 1px 2px rgba(0, 0, 0, 0.18), 0 12px 30px rgba(0, 0, 0, 0.16);
+  --shadow-float: 0 24px 64px rgba(0, 0, 0, 0.34);
+  --sidebar-bg: #0a1720;
+  --sidebar-panel: rgba(255,255,255,0.035);
+  --sidebar-border: rgba(255,255,255,0.075);
+  --sidebar-text: #f3f7fa;
+  --sidebar-muted: rgba(233,243,249,0.40);
+  --sidebar-muted-strong: rgba(233,243,249,0.66);
+  --sidebar-hover: rgba(255,255,255,0.065);
+  --sidebar-active: rgba(255,255,255,0.105);
+  --sidebar-accent-soft: rgba(255,255,255,0.09);
+  --sidebar-indicator: var(--primary);
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-surface: var(--surface);
+  --color-surface-muted: var(--surface-muted);
+  --color-surface-strong: var(--surface-strong);
+  --color-border: var(--border);
+  --color-border-strong: var(--border-strong);
+  --color-primary: var(--primary);
+  --color-primary-strong: var(--primary-strong);
+  --color-primary-soft: var(--primary-soft);
+  --color-primary-softer: var(--primary-softer);
+  --color-secondary: var(--secondary);
+  --color-muted: var(--muted);
+  --color-muted-strong: var(--muted-strong);
+  --color-success: var(--success);
+  --color-warning: var(--warning);
+  --color-danger: var(--danger);
+  --color-info: var(--info);
+  --font-sans: "Segoe UI", Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-mono: "Cascadia Code", "SFMono-Regular", Consolas, "Liberation Mono", monospace;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  background: var(--background);
+}
+
+body {
+  min-height: 100vh;
+  background: var(--background);
+  color: var(--foreground);
+  font-family: "Segoe UI", Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+button,
+input,
+textarea,
+select {
+  font: inherit;
+}
+
+button,
+a,
+input,
+textarea,
+select,
+summary {
+  -webkit-tap-highlight-color: transparent;
+}
+
+:focus-visible {
+  outline: 1.5px solid color-mix(in srgb, var(--primary) 72%, transparent);
+  outline-offset: 2px;
+}
+
+::selection {
+  background: color-mix(in srgb, var(--primary) 22%, transparent);
+}
+
+input,
+textarea {
+  caret-color: var(--primary);
+}
+
+input[type="number"] {
+  -moz-appearance: textfield;
+}
+
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  margin: 0;
+  -webkit-appearance: none;
+}
+
+textarea::-webkit-scrollbar {
+  width: 8px;
+}
+
+textarea::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+textarea::-webkit-scrollbar-thumb {
+  border: 2px solid transparent;
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--muted) 36%, transparent);
+  background-clip: padding-box;
+}
+
+textarea::-webkit-scrollbar-button {
+  display: none;
+  width: 0;
+  height: 0;
+}
+
+textarea::-webkit-resizer {
+  background: linear-gradient(
+    135deg,
+    transparent 0 46%,
+    color-mix(in srgb, var(--muted) 45%, transparent) 47% 53%,
+    transparent 54% 64%,
+    color-mix(in srgb, var(--muted) 32%, transparent) 65% 71%,
+    transparent 72%
+  );
+}
+
+.practicora-scroll {
+  scrollbar-width: thin;
+  scrollbar-color: color-mix(in srgb, var(--muted) 42%, transparent) transparent;
+}
+
+.practicora-scroll::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+.practicora-scroll::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.practicora-scroll::-webkit-scrollbar-thumb {
+  min-height: 28px;
+  border: 2px solid transparent;
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--muted) 42%, transparent);
+  background-clip: padding-box;
+}
+
+.practicora-scroll::-webkit-scrollbar-thumb:hover {
+  background: color-mix(in srgb, var(--muted-strong) 58%, transparent);
+  background-clip: padding-box;
+}
+
+.practicora-scroll::-webkit-scrollbar-button {
+  display: none;
+  width: 0;
+  height: 0;
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.no-scrollbar {
+  scrollbar-width: none;
+}
+
+.marketing-grid {
+  background-image:
+    linear-gradient(to right, color-mix(in srgb, var(--border) 58%, transparent) 1px, transparent 1px),
+    linear-gradient(to bottom, color-mix(in srgb, var(--border) 58%, transparent) 1px, transparent 1px);
+  background-size: 42px 42px;
+  mask-image: linear-gradient(to bottom, black, transparent 78%);
+}
+
+.prose-stage h2 {
+  margin-top: 2.25rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  letter-spacing: -0.025em;
+}
+
+.prose-stage h3 {
+  margin-top: 1.5rem;
+  font-size: 1.16rem;
+  font-weight: 700;
+}
+
+.prose-stage p,
+.prose-stage li {
+  color: var(--muted-strong);
+  line-height: 1.8;
+}
+
+.prose-stage ul {
+  margin: 1rem 0;
+  list-style: disc;
+  padding-left: 1.25rem;
+}
+
+@media print {
+  .print-hidden {
+    display: none !important;
+  }
+
+  body {
+    background: white !important;
+    color: #172432 !important;
+  }
+
+  .print-report {
+    box-shadow: none !important;
+    border: 0 !important;
+    padding: 0 !important;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    scroll-behavior: auto !important;
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* Practicora V7.1 — tooltips, themes and compact density */
+.p-tooltip,
+[data-tooltip] {
+  position: relative;
+}
+
+.p-tooltip::after,
+[data-tooltip]::after {
+  position: absolute;
+  z-index: 500;
+  left: 50%;
+  bottom: calc(100% + 9px);
+  width: max-content;
+  max-width: min(280px, 82vw);
+  padding: 0.48rem 0.65rem;
+  transform: translate(-50%, 4px) scale(0.98);
+  transform-origin: bottom center;
+  border: 1px solid color-mix(in srgb, var(--border) 72%, transparent);
+  border-radius: 0.7rem;
+  background: color-mix(in srgb, var(--foreground) 94%, transparent);
+  color: var(--surface);
+  box-shadow: var(--shadow-float);
+  content: attr(data-tooltip);
+  font-size: 0.72rem;
+  font-weight: 650;
+  line-height: 1.35;
+  text-align: center;
+  white-space: normal;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 140ms ease, transform 140ms ease;
+}
+
+.p-tooltip:hover::after,
+.p-tooltip:focus-within::after,
+[data-tooltip]:hover::after,
+[data-tooltip]:focus-visible::after {
+  opacity: 1;
+  transform: translate(-50%, 0) scale(1);
+}
+
+[data-theme-preset="slate"] {
+  --primary: #526579;
+  --primary-strong: #394a5b;
+  --primary-soft: #e7edf2;
+  --primary-softer: #f2f5f7;
+  --secondary: #6f7f8e;
+}
+
+[data-theme-preset="forest"] {
+  --primary: #39745b;
+  --primary-strong: #285540;
+  --primary-soft: #e3f0e9;
+  --primary-softer: #f0f7f3;
+  --secondary: #527b68;
+}
+
+[data-theme-preset="plum"] {
+  --primary: #76558f;
+  --primary-strong: #573d6d;
+  --primary-soft: #eee7f3;
+  --primary-softer: #f7f2fa;
+  --secondary: #7f6a8f;
+}
+
+[data-theme-preset="sunrise"] {
+  --primary: #b86639;
+  --primary-strong: #8d4a28;
+  --primary-soft: #f7e9df;
+  --primary-softer: #fcf5f0;
+  --secondary: #9a7158;
+}
+
+.dark[data-theme-preset="slate"] {
+  --primary: #a2b4c5;
+  --primary-strong: #c7d3de;
+  --primary-soft: #293846;
+  --primary-softer: #1d2a35;
+}
+
+.dark[data-theme-preset="forest"] {
+  --primary: #82b99d;
+  --primary-strong: #a9d3bd;
+  --primary-soft: #1d3c30;
+  --primary-softer: #162e25;
+}
+
+.dark[data-theme-preset="plum"] {
+  --primary: #bca0ce;
+  --primary-strong: #d7c4e3;
+  --primary-soft: #3b2c47;
+  --primary-softer: #2c2235;
+}
+
+.dark[data-theme-preset="sunrise"] {
+  --primary: #d99a75;
+  --primary-strong: #edb99b;
+  --primary-soft: #4a2f23;
+  --primary-softer: #35231b;
+}
+
+[data-density="compact"] .practicora-page-space {
+  gap: 0.85rem;
+}
+
+[data-density="compact"] .practicora-card-content {
+  padding: 1rem;
+}
+
+
+/* V7.3 — complete theme surfaces. Presets affect the whole shell, not only buttons. */
+[data-theme-preset="ocean"] {
+  --sidebar-bg: #102838;
+  --sidebar-indicator: #76b1d5;
+}
+[data-theme-preset="slate"] {
+  --background: #f4f6f8;
+  --surface-muted: #edf1f4;
+  --surface-strong: #e3e9ee;
+  --border: #d4dde4;
+  --sidebar-bg: #273747;
+  --sidebar-indicator: #b4c5d3;
+}
+[data-theme-preset="forest"] {
+  --background: #f3f8f5;
+  --surface-muted: #eaf2ed;
+  --surface-strong: #ddeae2;
+  --border: #cfdfd5;
+  --sidebar-bg: #17382d;
+  --sidebar-indicator: #8fc9aa;
+}
+[data-theme-preset="plum"] {
+  --background: #f8f5fa;
+  --surface-muted: #f0eaf4;
+  --surface-strong: #e7ddec;
+  --border: #ddd0e4;
+  --sidebar-bg: #35243f;
+  --sidebar-indicator: #c5a2d8;
+}
+[data-theme-preset="sunrise"] {
+  --background: #fbf6f2;
+  --surface-muted: #f6ece5;
+  --surface-strong: #edddd2;
+  --border: #e5d2c5;
+  --sidebar-bg: #44291f;
+  --sidebar-indicator: #e8aa82;
+}
+.dark[data-theme-preset="ocean"] {
+  --background: #09131b;
+  --surface: #111f2a;
+  --surface-muted: #172a37;
+  --surface-strong: #1f3544;
+  --border: #294452;
+  --sidebar-bg: #07131b;
+}
+.dark[data-theme-preset="slate"] {
+  --background: #11161c;
+  --surface: #18212a;
+  --surface-muted: #202c37;
+  --surface-strong: #2a3946;
+  --border: #354755;
+  --sidebar-bg: #0d141b;
+}
+.dark[data-theme-preset="forest"] {
+  --background: #0b1611;
+  --surface: #12241b;
+  --surface-muted: #193126;
+  --surface-strong: #214033;
+  --border: #2d5140;
+  --sidebar-bg: #07110d;
+}
+.dark[data-theme-preset="plum"] {
+  --background: #160f1a;
+  --surface: #24192a;
+  --surface-muted: #312139;
+  --surface-strong: #402b49;
+  --border: #52365d;
+  --sidebar-bg: #100b13;
+}
+.dark[data-theme-preset="sunrise"] {
+  --background: #1b110c;
+  --surface: #2b1d16;
+  --surface-muted: #39271e;
+  --surface-strong: #493326;
+  --border: #5d4030;
+  --sidebar-bg: #140c08;
+}
+[dir="rtl"] body {
+  text-align: start;
+}
+
+/* V7.4 — accessible theme-aware navigation and overlay layers */
+:root {
+  --sidebar-bg: #e9eef2;
+  --sidebar-panel: rgba(255,255,255,0.58);
+  --sidebar-border: #d2dde5;
+  --sidebar-text: #172432;
+  --sidebar-muted: #6a7a88;
+  --sidebar-muted-strong: #425362;
+  --sidebar-hover: color-mix(in srgb, var(--primary) 9%, transparent);
+  --sidebar-active: color-mix(in srgb, var(--primary) 15%, transparent);
+  --sidebar-accent-soft: color-mix(in srgb, var(--primary) 12%, transparent);
+  --sidebar-indicator: var(--primary);
+}
+:root[data-theme-preset="ocean"] { --sidebar-bg: #e6eef4; }
+:root[data-theme-preset="slate"] { --sidebar-bg: #e7ebef; }
+:root[data-theme-preset="forest"] { --sidebar-bg: #e5eee8; }
+:root[data-theme-preset="plum"] { --sidebar-bg: #eee7f1; }
+:root[data-theme-preset="sunrise"] { --sidebar-bg: #f2e9e2; }
+.dark {
+  --sidebar-bg: #0a1720;
+  --sidebar-panel: rgba(255,255,255,0.04);
+  --sidebar-border: rgba(255,255,255,0.08);
+  --sidebar-text: #f3f7fa;
+  --sidebar-muted: rgba(233,243,249,0.54);
+  --sidebar-muted-strong: rgba(233,243,249,0.76);
+  --sidebar-hover: color-mix(in srgb, var(--primary) 13%, transparent);
+  --sidebar-active: color-mix(in srgb, var(--primary) 20%, transparent);
+}
+[data-radix-popper-content-wrapper],
+[role="tooltip"],
+[role="dialog"],
+[data-practicora-overlay] {
+  z-index: 10020 !important;
+}
+.p-tooltip::after,
+[data-tooltip]::after { z-index: 10010; }
+button, a, [role="button"] { transition-timing-function: cubic-bezier(.22,1,.36,1); }
+@media (prefers-reduced-motion: no-preference) {
+  .practicora-soft-enter { animation: practicora-soft-enter 260ms cubic-bezier(.22,1,.36,1) both; }
+}
+@keyframes practicora-soft-enter { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: translateY(0); } }
+
+/* V7.4.1 — visual consistency hotfix */
+:root.dark,
+:root.dark[data-theme-preset="ocean"] {
+  --sidebar-bg: #0b1b25;
+  --sidebar-panel: rgba(255,255,255,0.055);
+  --sidebar-border: rgba(226,239,247,0.11);
+  --sidebar-text: #f4f8fb;
+  --sidebar-muted: rgba(232,242,248,0.58);
+  --sidebar-muted-strong: rgba(238,246,251,0.78);
+  --sidebar-hover: color-mix(in srgb, var(--primary) 18%, rgba(255,255,255,0.035));
+  --sidebar-active: color-mix(in srgb, var(--primary) 25%, rgba(255,255,255,0.045));
+}
+:root.dark[data-theme-preset="slate"] { --sidebar-bg: #101820; }
+:root.dark[data-theme-preset="forest"] { --sidebar-bg: #091a13; }
+:root.dark[data-theme-preset="plum"] { --sidebar-bg: #180f1d; }
+:root.dark[data-theme-preset="sunrise"] { --sidebar-bg: #1c100b; }
+
+html, body,
+[data-theme-preset],
+[data-theme-preset] * {
+  transition-property: background-color, border-color, color, fill, stroke, box-shadow;
+  transition-duration: 180ms;
+  transition-timing-function: cubic-bezier(.22,1,.36,1);
+}
+[data-theme-preset] svg,
+[data-theme-preset] path { transition-duration: 160ms; }
+
+/* Pseudo tooltips are replaced by the portal so they can never be clipped by cards. */
+.p-tooltip::after,
+[data-tooltip]::after { display: none !important; }
+
+.practicora-guide-launcher {
+  position: fixed !important;
+  right: max(1rem, env(safe-area-inset-right)) !important;
+  left: auto !important;
+  bottom: max(1rem, env(safe-area-inset-bottom)) !important;
+  isolation: isolate;
+}
+.practicora-guide-panel {
+  position: fixed !important;
+  right: max(0.75rem, env(safe-area-inset-right)) !important;
+  left: auto !important;
+  isolation: isolate;
+}
+@media (min-width: 640px) {
+  .practicora-guide-launcher { right: max(1.5rem, env(safe-area-inset-right)) !important; bottom: max(1.5rem, env(safe-area-inset-bottom)) !important; }
+  .practicora-guide-panel { right: max(1.5rem, env(safe-area-inset-right)) !important; }
+}

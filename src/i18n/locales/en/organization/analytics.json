@@ -1,0 +1,21 @@
+{
+  "at_risk_placements": "At-risk placements",
+  "average_completion": "Average completion",
+  "completion": "Completion",
+  "distribution_of_drafts_submissions_changes_and_approvals": "Distribution of drafts, submissions, changes and approvals.",
+  "hours_completion": "Hours completion",
+  "institution_analytics": "Institution analytics",
+  "no_placements_to_analyze": "No placements to analyze.",
+  "no_reports_to_analyze": "No reports to analyze.",
+  "percentage_of_required_placement_hours": "Percentage of required placement hours.",
+  "report_statuses": "Report statuses",
+  "reports_to_process": "Reports to process",
+  "students": "Students",
+  "turn_hours_submissions_and_approvals_into_progress_indicators_without_exposing_o": "Turn hours, submissions and approvals into progress indicators without exposing one student’s data to another.",
+  "filters": "Analytics filters",
+  "filtered_summary": "{{placements}} placements and {{reports}} reports",
+  "clear_filters": "Clear filters",
+  "search_placeholder": "Search student, company or supervisor…",
+  "all_placement_statuses": "All placement statuses",
+  "all_report_statuses": "All report statuses"
+}

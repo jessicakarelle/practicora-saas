@@ -1,0 +1,11 @@
+{
+  "autosave": "كل change هو محفوظ immediately و audited.",
+  "description": "Gradually enable حساس capabilities و التحكم their rollout percentage.",
+  "disabled": "معطّل",
+  "enabled": "مفعّل",
+  "operation_failed": "تعذر إلى تحديث ال الميزة.",
+  "rollout": "Rollout",
+  "rollout_help": "Percentage من eligible accounts receiving هذا الميزة.",
+  "saved": "الميزة flag updated.",
+  "title": "الميزة rollout"
+}

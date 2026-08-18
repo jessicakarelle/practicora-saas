@@ -1,0 +1,22 @@
+{
+  "contact_terms": "Questions about este product foundation: {{email}}.",
+  "last_updated_july_16_2026": "Último updated: July 16, 2026",
+  "local_mode_depends_on_browser_storage_users_should_keep_regular_exports_when_dat": "Local mode depends on browser armazenamento. Usuários should keep regular exports when dados loss would have significant consequences. Recovery cannot ser guaranteed para local dados removed por o browser ou device.",
+  "practicora_provides_tools_to_document_internships_calculate_hours_organize_goals": "Practicora provides tools para document estágios, calculate horas, organize objetivos, analyze progresso e produce exports. O app does não replace official attendance, payroll, assessment ou compliance systems used por um instituição ou employer.",
+  "terms": "Terms",
+  "text_1_purpose_of_the_service": "1. Purpose de o service",
+  "text_2_accuracy_of_information": "2. Accuracy de information",
+  "text_3_professional_confidentiality": "3. Profissional confidentiality",
+  "text_4_accounts_and_security": "4. Accounts e segurança",
+  "text_5_backups": "5. Backups",
+  "text_6_availability_and_evolution": "6. Availability e evolution",
+  "text_7_contact": "7. Contact",
+  "the_foundation_may_evolve_be_interrupted_or_change_functionality_during_developm": "O foundation may evolve, ser interrupted ou change functionality during desenvolvimento e beta. Future funcionalidades shown on o Pricing página são não um commitment para availability ou price.",
+  "these_terms_describe_the_current_demonstration_foundation_legal_review_for_the_o": "These terms describe o atual demonstration foundation. Legal revisar para o operating jurisdiction e business model é obrigatório antes de public SaaS launch.",
+  "use_practicora_responsibly_and_in_accordance_with_your_workplace": "Use Practicora responsibly e em accordance com seu workplace.",
+  "users_must_follow_the_policies_of_their_institution_and_internship_workplace_pra": "Usuários deve follow o policies de their instituição e estágio workplace. Practicora deve não ser used para store ou share secrets, credentials, customer dados ou content o usuário é não authorized para process.",
+  "users_remain_responsible_for_the_accuracy_of_dates_hours_descriptions_and_report": "Usuários remain responsible para o accuracy de dates, horas, descriptions e relatórios. Calculations e charts depend on supplied dados e deve ser reviewed antes de official submission.",
+  "when_a_cloud_account_is_enabled_users_must_protect_their_password_verify_their_e": "When um nuvem conta é ativado, usuários deve protect their password, verify their e-mail e relatório unauthorized use. O local PIN apenas protects o display de selected páginas on o device; it does não replace operating-system ou Supabase conta segurança.",
+  "metadata_title": "Terms de use",
+  "metadata_description": "Practicora terms para tracking, storing e exporting estágio dados."
+}

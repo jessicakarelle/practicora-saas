@@ -1,0 +1,8 @@
+{
+  "items": "{{count}} items",
+  "items_per_page": "Items per الصفحة",
+  "next": "التالي الصفحة",
+  "page_of": "الصفحة {{page}} من {{pages}}",
+  "previous": "السابق الصفحة",
+  "range": "{{start}} إلى {{end}} من {{total}}"
+}

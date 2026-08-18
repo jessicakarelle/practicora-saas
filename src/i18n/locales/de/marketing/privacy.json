@@ -1,0 +1,23 @@
+{
+  "an_internship_journal_may_contain_names_internal_projects_compensation_feedback_": "Ein Praktikum Tagebuch may contain names, internal projects, Vergütung, Feedback oder Unternehmen information. Do nicht store passwords, API secrets, customer Daten, medical information oder content Ihr workplace prohibits von external tools.",
+  "clearing_browser_data_using_another_profile_or_resetting_the_device_may_make_thi": "Clearing browser Daten, using another Profil oder resetting der device may make dies information unavailable. JSON exports provide ein portable Sicherung.",
+  "contact_privacy": "Für ein Datenschutz question about dies product foundation: {{email}}.",
+  "in_local_mode_internships_entries_goals_notes_settings_evaluations_and_compensat": "In lokal mode, Praktika, Einträge, Ziele, Notizen, Einstellungen, evaluations und Vergütung information sind stored in der lokal Speicher von der browser being used. Practicora does nicht automatisch transfer dies Daten zu ein server.",
+  "last_updated_july_16_2026": "Letzte updated: July 16, 2026",
+  "privacy": "Datenschutz",
+  "supabase_may_send_confirmation_password_recovery_and_security_emails_when_these_": "Supabase may senden confirmation, password recovery und Sicherheit emails when these Funktionen sind aktiviert. Delivery depends on der Supabase project Konfiguration und, in production, der selected SMTP provider.",
+  "text_1_data_stored_in_the_browser": "1. Daten stored in der browser",
+  "text_2_accounts_and_supabase_synchronization": "2. Accounts und Supabase synchronization",
+  "text_3_potentially_sensitive_data": "3. Potentially sensibel Daten",
+  "text_4_authentication_emails": "4. Authentication emails",
+  "text_5_export_deletion_and_portability": "5. Exportieren, deletion und portability",
+  "text_6_analytics_and_cookies": "6. Analysen und cookies",
+  "text_7_contact": "7. Contact",
+  "the_app_supports_structured_data_export_local_reset_clears_the_browser_workspace": "Der app supports structured Daten exportieren. Lokal zurücksetzen clears der browser Arbeitsbereich nach confirmation. Cloud Konto und Daten deletion muss sein connected zu production procedures vor commercialization.",
+  "the_delivered_foundation_does_not_integrate_advertising_or_third_party_behaviora": "Der delivered foundation does nicht integrate advertising oder third-party behavioral tracking. Any future Analysen muss sein documented here und konfiguriert according zu applicable obligations.",
+  "this_policy_describes_the_current_practicora_foundation_it_must_be_adapted_to_th": "Dies policy describes der aktuell Practicora foundation. It muss sein adapted zu der final domain, hosting provider und business model vor public launch.",
+  "when_supabase_variables_are_configured_and_a_user_creates_an_account_supabase_pr": "When Supabase variables sind konfiguriert und ein Benutzer creates ein Konto, Supabase processes der E-Mail-Adresse, authentication information und ein JSON snapshot von Arbeitsbereich Daten. Der provided table uses Row Level Sicherheit policies zu limit Zugriff zu der matching authenticated Benutzer.",
+  "your_internship_data_should_remain_under_your_control": "Ihr Praktikum Daten should remain under Ihr Kontrolle.",
+  "metadata_title": "Datenschutz",
+  "metadata_description": "Understand how Practicora stores Daten locally und uses Supabase when Cloud synchronization ist aktiviert."
+}

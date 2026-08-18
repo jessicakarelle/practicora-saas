@@ -1,0 +1,12 @@
+{
+  "access_temporarily_blocked": "Acesso temporarily blocked",
+  "back_to_dashboard": "Back para painel",
+  "checking": "Checking…",
+  "delete_one_digit": "Excluir one digit",
+  "enter_your_pin_validation_is_automatic": "Enter seu PIN. Validation é automático.",
+  "entered_pin": "Entered PIN",
+  "incorrect_code_attempts_remaining": "Incorrect code. {{count}} attempt(s) remaining.",
+  "protected_page": "Protected página",
+  "too_many_attempts_access_blocked_for_5_minutes": "Too many attempts. Acesso blocked para 5 minutes.",
+  "workspace_unlocked": "Espaço de trabalho unlocked."
+}

@@ -1,0 +1,274 @@
+[
+  {
+    "slug": "comment-rediger-un-journal-de-stage-professionnel",
+    "publishedAt": "2026-07-01",
+    "updatedAt": "2026-07-16",
+    "readingMinutes": 10,
+    "title": "How a write un profesional práctica diario que es genuinely useful",
+    "description": "UN completar method a document tu días, demonstrate progreso y prepare un strong práctica informe sin rebuilding everything at el end.",
+    "category": "Methodology",
+    "sections": [
+      {
+        "heading": "What es un práctica diario really para?",
+        "paragraphs": [
+          "Un práctica diario es more than proof de attendance. It preserves un reliable record de completado work, decisions, challenges y aprendizaje en un profesional context.",
+          "When updated consistently, it becomes un source para tu final informe, supervisor meetings, portfolio y future interviews. Usted sin longer need a rely on incomplete memories weeks después de el work happened."
+        ]
+      },
+      {
+        "heading": "Describe un contribution, no just un activity",
+        "paragraphs": [
+          "UN sentence such as “worked on el website” es too vague. It does no explain el context, tu responsibility o el outcome. UN profesional entrada states what needed improvement, what usted did, el constraints y what changed because de tu contribution.",
+          "UN dependable structure answers four questions: what did usted completar, why did it matter, how did usted approach it y what did usted aprender?"
+        ],
+        "bullets": [
+          "Context: el problem, solicitud o objetivo",
+          "Acción: tu responsibility y method",
+          "Outcome: deliverable, decision, correction o visible progreso",
+          "Aprendizaje: competencia, concept o profesional behavior developed"
+        ]
+      },
+      {
+        "heading": "Use un repeatable structure sin writing un essay",
+        "paragraphs": [
+          "Consistency matters more than length. UN stable structure reduces writing effort y makes días comparable. UN few precise paragraphs son more useful than one long, disorganized descripción.",
+          "Separate completado work, aprendizaje, challenges, siguiente steps y evidencia. Este makes filtering y future summaries much more reliable."
+        ],
+        "bullets": [
+          "Start, end y break times",
+          "Project, work categoría y modalidad de trabajo",
+          "Completado work y outcomes",
+          "Blockers, comentarios y siguiente step",
+          "Tareas, competencias, technologies y evidencia enlaces"
+        ]
+      },
+      {
+        "heading": "Document challenges con maturity",
+        "paragraphs": [
+          "UN challenge does no make usted less competent. When explained well, it demonstrates análisis, autonomy y el way usted seek help. Avoid blaming idioma; describe facts y tu response.",
+          "Para example, explain que usted encountered un incompatibility, reviewed documentation, reproduced el issue, compared options y requested validation antes de applying el fix."
+        ]
+      },
+      {
+        "heading": "Turn entradas into evidencia para informes y portfolios",
+        "paragraphs": [
+          "At el end de el práctica, group entradas por project, competencia o objetivo. Measurable outcomes, technical decisions, comentarios y deliverables son especially valuable para un credible informe.",
+          "Para un portfolio, quitar confidential information y concentración on tu rol, reasoning y impact. UN strong diario lets usted describe tu contribution accurately sin claiming el entire team’s work."
+        ],
+        "bullets": [
+          "Measured outcomes o observable changes",
+          "Before-and-after improvements",
+          "Technical decisions y trade-offs",
+          "Competencias demonstrated through concrete examples",
+          "Comentarios received y improvements made"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "suivre-ses-heures-de-stage-sans-erreur",
+    "publishedAt": "2026-06-20",
+    "updatedAt": "2026-07-15",
+    "readingMinutes": 8,
+    "title": "Track práctica horas accurately sin last-minute reconstruction",
+    "description": "Rules, calculations y habits que prevent discrepancies between tu diario, timesheets y final informe.",
+    "category": "Organización",
+    "sections": [
+      {
+        "heading": "Enter horas on el same día",
+        "paragraphs": [
+          "El longer usted wait, el more likely usted son a forget un break, early departure, late reunión o remoto workday. Daily entrada takes little tiempo y protects datos quality.",
+          "Ideally, completar el entrada antes de leaving work o later el same evening. Automático borradores let usted begin during el día y finish sin losing work."
+        ]
+      },
+      {
+        "heading": "Use one consistent calculation method",
+        "paragraphs": [
+          "Always use el same fields: start tiempo, end tiempo y break duration. Totals should ser calculated automáticamente a reduce conversion errors between decimal horas y horas/minutes.",
+          "Para example, 7 horas 30 minutes equals 7.5 decimal horas. Este matters para progreso, remuneración y weekly averages."
+        ]
+      },
+      {
+        "heading": "Separate attendance, documented work y targets",
+        "paragraphs": [
+          "UN total number de horas does no explain práctica quality por itself. Connect cada día a actual work, tareas y aprendizaje so el total es backed por un coherent historial.",
+          "Compare logged horas con el overall y weekly targets. Un early discrepancy es easy a correct; one discovered el día antes de un final informe es much harder a explain."
+        ],
+        "bullets": [
+          "Práctica total y progreso percentage",
+          "Weekly total y difference desde target",
+          "Missing o incomplete días",
+          "Unusual horas que need revisar"
+        ]
+      },
+      {
+        "heading": "Revisar exceptional periods",
+        "paragraphs": [
+          "Holidays, appointments, training, travel y overtime debe follow el rules de tu centro educativo y employer. Do no assume they son todos counted el same way.",
+          "Añadir un short nota whenever un día differs desde el normal schedule. Este saves tiempo later."
+        ]
+      },
+      {
+        "heading": "Prepare un verifiable record",
+        "paragraphs": [
+          "Antes de submitting un informe, exportar un date-based record con start, end, break y total. Check duplicates, impossible dates y missing periods.",
+          "Keep un JSON o CSV copia de seguridad as well. It lets usted restaurar el datos y explain tu calculation method when needed."
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "transformer-son-stage-en-portfolio",
+    "publishedAt": "2026-06-10",
+    "updatedAt": "2026-07-14",
+    "readingMinutes": 10,
+    "title": "Turn tu práctica into un profesional portfolio sin exposing confidential information",
+    "description": "How a select el right projects, aprendizaje y outcomes a strengthen tu portfolio y future applications.",
+    "category": "Career",
+    "sections": [
+      {
+        "heading": "Identify demonstrable contributions",
+        "paragraphs": [
+          "UN credible portfolio presents tu exact rol, project constraints y observable outcomes. Do no claim el entire team’s work; show tu contribution, decisions y aprendizaje.",
+          "El strongest examples son no always el most spectacular. UN difficult fix, accessibility improvement, test automation o borrar documentation puede demonstrate significant maturity."
+        ]
+      },
+      {
+        "heading": "Crear un evidencia brief para cada project",
+        "paragraphs": [
+          "Keep un structured brief para cada important project. It se help usted write un coherent case study y answer interview questions."
+        ],
+        "bullets": [
+          "Context y problem",
+          "Tu rol y level de autonomy",
+          "Technical, human o tiempo constraints",
+          "Selected approach y alternatives",
+          "Outcome, aprendizaje y future improvement"
+        ]
+      },
+      {
+        "heading": "Connect tareas a competencias",
+        "paragraphs": [
+          "One contribution puede demonstrate architecture, quality, communication, accessibility, análisis, prioritization o collaboration. Use precise examples instead de un generic technology list.",
+          "Rather than writing solo “React,” explain how usted structured components, managed state, improved responsive behavior o reduced regressions."
+        ]
+      },
+      {
+        "heading": "Protect empresa information",
+        "paragraphs": [
+          "Never publicar credentials, customer datos, internal screenshots, private URLs, technical secrets o confidential code. Ask permiso antes de showing anything owned por el empresa.",
+          "Usted puede often anonymize el context, rebuild un mockup con synthetic datos y explain tu reasoning sin exposing el real product."
+        ]
+      },
+      {
+        "heading": "Prepare un borrar interview story",
+        "paragraphs": [
+          "UN case study should ser summarized en un few minutes: situation, responsibility, acciones, result y reflection. Tu diario provides el detalles obligatorio a stay accurate sin memorizing un script.",
+          "End con what usted would do differently today. Que reflection demonstrates genuine growth."
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "preparer-un-rapport-de-stage-structure",
+    "publishedAt": "2026-07-08",
+    "updatedAt": "2026-07-16",
+    "readingMinutes": 11,
+    "title": "Prepare un structured práctica informe desde reliable datos",
+    "description": "UN process para turning un daily diario into un borrar, evidence-based informe supported por concrete examples.",
+    "category": "Informes",
+    "sections": [
+      {
+        "heading": "Start con official requirements",
+        "paragraphs": [
+          "Antes de writing, revisar el grading rubric, obligatorio structure, expected length y confidentiality rules. UN strong informe primero satisfies tu programa’s requirements.",
+          "Crear un checklist y connect cada requirement a disponible diario datos: projects, horas, competencias, challenges, objetivos y comentarios."
+        ]
+      },
+      {
+        "heading": "Build un central narrative",
+        "paragraphs": [
+          "UN informe es no un chronological copy de cada día. Choose un central narrative, such as growing autonomy, aprendizaje un profesional process o delivering un important project.",
+          "Daily entradas then provide evidencia para que narrative."
+        ]
+      },
+      {
+        "heading": "Select representative examples",
+        "paragraphs": [
+          "Choose un few situations que demonstrate different competencias. Para cada one, explain context, acción, result y aprendizaje. Avoid accumulating detalles sin análisis."
+        ],
+        "bullets": [
+          "Un important project o deliverable",
+          "UN challenge solved methodically",
+          "Comentarios que led a un improvement",
+          "Growth en collaboration o communication",
+          "UN competencia performed con greater autonomy"
+        ]
+      },
+      {
+        "heading": "Soporte conclusions con datos",
+        "paragraphs": [
+          "Datos does no replace análisis, but it strengthens it. Use horas, objetivo progreso, competencia frequency o work-category distribution a demonstrate real trends.",
+          "Always explain what un chart o number means. UN visual sin interpretation remains decorative."
+        ]
+      },
+      {
+        "heading": "Revisar credibility y confidentiality",
+        "paragraphs": [
+          "Make sure cada important claim puede ser supported por un entrada, aprobado evidencia o un precise observation. Quitar sensible information y replace real names where necessary.",
+          "Finish con idioma revision, fecha checks y un comparison con tu hora record. Este prevents contradictions between sections."
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "objectifs-smart-stage-competences",
+    "publishedAt": "2026-07-11",
+    "updatedAt": "2026-07-16",
+    "readingMinutes": 9,
+    "title": "Set measurable práctica objetivos y track developed competencias",
+    "description": "How a turn vague intentions into observable objetivos y connect daily work a evidencia de progreso.",
+    "category": "Progreso",
+    "sections": [
+      {
+        "heading": "Avoid objetivos que son too general",
+        "paragraphs": [
+          "“Become better at programming” o “improve communication” son useful intentions, but they do no define when progreso has been achieved. Un práctica objetivo should describe un observable outcome.",
+          "Specify el context, expected acción, level de autonomy y evidencia que se confirmar progreso."
+        ]
+      },
+      {
+        "heading": "Use measurable wording",
+        "paragraphs": [
+          "UN strong objetivo puede include un deadline, frequency, deliverable o quality criterion. It debe remain realistic para el práctica duration y assigned responsibilities."
+        ],
+        "bullets": [
+          "Deliver un completar función con code revisar",
+          "Present un borrar weekly actualizar para four weeks",
+          "Reduce un tipo de defect through un pruebas procedure",
+          "Document un process another team miembro puede follow"
+        ]
+      },
+      {
+        "heading": "Break objetivos into intermediate progreso",
+        "paragraphs": [
+          "UN progreso percentage should no ser arbitrary. Define stages: observation, guided execution, autonomous execution, validation y improvement. Actualizar progreso based on real events."
+        ]
+      },
+      {
+        "heading": "Connect daily entradas a competencias",
+        "paragraphs": [
+          "Añadir el competencias y technologies actually used en cada entrada. Over tiempo, el frequency y variety de examples demonstrate progreso better than un single final self-assessment.",
+          "Include un sentence explaining how el competencia was used. Context turns un label into evidencia."
+        ]
+      },
+      {
+        "heading": "Revisar regularly",
+        "paragraphs": [
+          "UN short weekly revisar es enough a check objetivos, adjust priorities y identify un competencia que has received little attention. Este helps usted discuss progreso con un supervisor using concrete information.",
+          "At el end de el práctica, usted se have un historial showing no solo what usted puede do, but how que ability developed."
+        ]
+      }
+    ]
+  }
+]

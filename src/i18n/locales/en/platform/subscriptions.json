@@ -1,0 +1,18 @@
+{
+  "cancelled": "Cancelled",
+  "custom": "custom",
+  "description": "Track personal and institutional subscriptions, plan, period and payment status.",
+  "empty": "No subscriptions yet.",
+  "institution": "Institution",
+  "monthly": "monthly",
+  "owner": "Customer",
+  "past_due": "Past due",
+  "personal": "Personal",
+  "plan": "Plan",
+  "price": "Price",
+  "renewal": "Period end",
+  "status": "Status",
+  "title": "Subscriptions",
+  "trialing": "Trial",
+  "yearly": "yearly"
+}

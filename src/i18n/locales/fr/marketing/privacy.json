@@ -1,0 +1,23 @@
+{
+  "an_internship_journal_may_contain_names_internal_projects_compensation_feedback_": "Un journal de stage peut contenir des noms, projets internes, rémunération, rétroactions ou informations d’entreprise. N’enregistrez pas de mots de passe, secrets API, données clients, renseignements médicaux ou informations que votre milieu interdit de conserver dans un outil externe.",
+  "clearing_browser_data_using_another_profile_or_resetting_the_device_may_make_thi": "La suppression des données du navigateur, l’utilisation d’un autre profil ou une réinitialisation de l’appareil peut rendre ces informations inaccessibles. Les exports JSON servent de sauvegarde portable.",
+  "contact_privacy": "Pour une question liée à la confidentialité de cette base produit : {{email}}.",
+  "in_local_mode_internships_entries_goals_notes_settings_evaluations_and_compensat": "En mode local, les stages, journées, objectifs, notes, paramètres, évaluations et informations de rémunération sont enregistrés dans le stockage local du navigateur utilisé. Ces données ne sont pas automatiquement transférées vers un serveur par Practicora.",
+  "last_updated_july_16_2026": "Dernière mise à jour : 16 juillet 2026",
+  "privacy": "Confidentialité",
+  "supabase_may_send_confirmation_password_recovery_and_security_emails_when_these_": "Supabase peut envoyer des courriels de confirmation, récupération de mot de passe et sécurité lorsque ces fonctions sont activées. Leur livraison dépend de la configuration du projet Supabase et, en production, du fournisseur SMTP choisi.",
+  "text_1_data_stored_in_the_browser": "1. Données enregistrées dans le navigateur",
+  "text_2_accounts_and_supabase_synchronization": "2. Comptes et synchronisation Supabase",
+  "text_3_potentially_sensitive_data": "3. Données potentiellement sensibles",
+  "text_4_authentication_emails": "4. Courriels d’authentification",
+  "text_5_export_deletion_and_portability": "5. Export, suppression et portabilité",
+  "text_6_analytics_and_cookies": "6. Mesure d’audience et témoins",
+  "text_7_contact": "7. Contact",
+  "the_app_supports_structured_data_export_local_reset_clears_the_browser_workspace": "L’application permet d’exporter les données structurées. La réinitialisation locale efface l’espace du navigateur après confirmation. La suppression d’un compte cloud et de ses données devra être reliée aux procédures de production avant la commercialisation.",
+  "the_delivered_foundation_does_not_integrate_advertising_or_third_party_behaviora": "La base livrée n’intègre pas de plateforme publicitaire ni de suivi comportemental tiers. Toute future mesure d’audience devra être documentée ici et configurée selon les obligations applicables.",
+  "this_policy_describes_the_current_practicora_foundation_it_must_be_adapted_to_th": "Cette politique décrit le fonctionnement de la base actuelle de Practicora. Elle devra être adaptée au domaine, à l’hébergeur et au modèle commercial définitifs avant un lancement public.",
+  "when_supabase_variables_are_configured_and_a_user_creates_an_account_supabase_pr": "Lorsque les variables Supabase sont configurées et qu’un utilisateur crée un compte, Supabase traite l’adresse courriel, les informations d’authentification et un instantané JSON des données de l’espace. La table fournie utilise des politiques Row Level Security afin de limiter l’accès à l’utilisateur authentifié correspondant.",
+  "your_internship_data_should_remain_under_your_control": "Vos données de stage doivent rester sous votre contrôle.",
+  "metadata_title": "Confidentialité",
+  "metadata_description": "Comprendre comment Practicora enregistre les données localement et utilise Supabase lorsque la synchronisation cloud est activée."
+}

@@ -1,0 +1,18 @@
+{
+  "cancelled": "Annullato",
+  "custom": "personalizzato",
+  "description": "Track personale e istituzionale abbonamenti, piano, periodo e pagamento stato.",
+  "empty": "Nessun abbonamenti yet.",
+  "institution": "Istituzione",
+  "monthly": "monthly",
+  "owner": "Customer",
+  "past_due": "Past due",
+  "personal": "Personale",
+  "plan": "Piano",
+  "price": "Price",
+  "renewal": "Periodo end",
+  "status": "Stato",
+  "title": "Abbonamenti",
+  "trialing": "Trial",
+  "yearly": "yearly"
+}

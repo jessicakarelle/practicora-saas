@@ -1,0 +1,8 @@
+{
+  "audit_log": "سجل التدقيق",
+  "en_ca": "en-CA",
+  "keep_a_record_of_invitations_role_changes_approvals_exports_and_administrative_a": "Keep record من invitations, الدور changes, approvals, exports و administrative الإجراءات.",
+  "no_audit_events": "لا التدقيق events",
+  "search_action": "بحث الإجراء…",
+  "sensitive_actions_will_appear_here_after_the_institutional_schema_is_configured": "حساس الإجراءات سوف appear here بعد ال مؤسسي schema هو مُعد."
+}

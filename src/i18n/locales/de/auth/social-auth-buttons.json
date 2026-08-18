@@ -1,0 +1,19 @@
+{
+  "cards_visible_notice": "Nicht konfigurierte Anbieter bleiben sichtbar und zeigen die erforderliche Aktion.",
+  "close": "Schließen",
+  "configuration_required": "Konfiguration erforderlich",
+  "configuration_required_description": "Die Anmeldung mit {{provider}} muss zuerst in Supabase und in der öffentlichen Practicora-Konfiguration aktiviert werden.",
+  "continue_with": "Weiter mit",
+  "or_with_your_email": "oder weiter mit",
+  "provider_apple": "Apple",
+  "provider_azure": "Microsoft",
+  "provider_github": "GitHub",
+  "provider_google": "Google",
+  "provider_not_enabled": "{{provider}} ist nicht verfügbar: {{message}}",
+  "ready": "Bereit",
+  "redirecting": "Weiterleitung…",
+  "setup_required": "Einrichten",
+  "sign_up_with": "Registrieren mit",
+  "unable_to_sign_in": "Anmeldung nicht möglich",
+  "or_continue_with": "Oder weiter mit"
+}

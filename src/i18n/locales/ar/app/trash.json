@@ -1,0 +1,13 @@
+{
+  "delete": "حذف",
+  "delete_permanently": "حذف permanently?",
+  "delete_permanently_2": "حذف permanently",
+  "deleted_entries_goals_and_notes_will_appear_here": "Deleted الإدخالات, الأهداف و الملاحظات سوف appear here.",
+  "en_ca": "en-CA",
+  "item_restored": "Item restored.",
+  "keep": "Keep",
+  "restore": "استعادة",
+  "restore_accidentally_deleted_items_or_permanently_remove_them_with_a_clear_confi": "استعادة accidentally deleted items أو permanently إزالة them مع مسح confirmation.",
+  "trash": "Trash",
+  "trash_is_empty": "Trash هو empty"
+}

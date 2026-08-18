@@ -1,0 +1,23 @@
+{
+  "an_internship_journal_may_contain_names_internal_projects_compensation_feedback_": "Un tirocinio diario may contain names, internal projects, retribuzione, feedback o azienda information. Do non store passwords, API secrets, customer dati, medical information o content il tuo workplace prohibits da external tools.",
+  "clearing_browser_data_using_another_profile_or_resetting_the_device_may_make_thi": "Clearing browser dati, using another profilo o resetting il device may make questo information unavailable. JSON exports provide un portable backup.",
+  "contact_privacy": "Per un privacy question about questo product foundation: {{email}}.",
+  "in_local_mode_internships_entries_goals_notes_settings_evaluations_and_compensat": "In locale mode, tirocini, voci, obiettivi, note, impostazioni, evaluations e retribuzione information sono stored in il locale archiviazione di il browser being used. Practicora does non automaticamente transfer questo dati a un server.",
+  "last_updated_july_16_2026": "Ultimo updated: July 16, 2026",
+  "privacy": "Privacy",
+  "supabase_may_send_confirmation_password_recovery_and_security_emails_when_these_": "Supabase may inviare confirmation, password recovery e sicurezza emails when these funzionalità sono attivato. Delivery depends on il Supabase project configurazione e, in production, il selected SMTP provider.",
+  "text_1_data_stored_in_the_browser": "1. Dati stored in il browser",
+  "text_2_accounts_and_supabase_synchronization": "2. Accounts e Supabase synchronization",
+  "text_3_potentially_sensitive_data": "3. Potentially sensibile dati",
+  "text_4_authentication_emails": "4. Authentication emails",
+  "text_5_export_deletion_and_portability": "5. Esportare, deletion e portability",
+  "text_6_analytics_and_cookies": "6. Analisi e cookies",
+  "text_7_contact": "7. Contact",
+  "the_app_supports_structured_data_export_local_reset_clears_the_browser_workspace": "Il app supports structured dati esportare. Locale reimpostare clears il browser spazio di lavoro dopo confirmation. Cloud account e dati deletion deve essere connected a production procedures prima di commercialization.",
+  "the_delivered_foundation_does_not_integrate_advertising_or_third_party_behaviora": "Il delivered foundation does non integrate advertising o third-party behavioral tracking. Any future analisi deve essere documented here e configurato according a applicable obligations.",
+  "this_policy_describes_the_current_practicora_foundation_it_must_be_adapted_to_th": "Questo policy describes il attuale Practicora foundation. It deve essere adapted a il final domain, hosting provider e business model prima di public launch.",
+  "when_supabase_variables_are_configured_and_a_user_creates_an_account_supabase_pr": "When Supabase variables sono configurato e un utente creates un account, Supabase processes il indirizzo e-mail, authentication information e un JSON snapshot di spazio di lavoro dati. Il provided table uses Row Level Sicurezza policies a limit accesso a il matching authenticated utente.",
+  "your_internship_data_should_remain_under_your_control": "Il tuo tirocinio dati should remain under il tuo controllo.",
+  "metadata_title": "Privacy",
+  "metadata_description": "Understand how Practicora stores dati locally e uses Supabase when cloud synchronization è attivato."
+}

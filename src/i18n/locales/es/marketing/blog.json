@@ -1,0 +1,20 @@
+{
+  "methodology_organization_reports_and_career_useful_content_written_to_be_applied": "Methodology, organización, informes y career: useful content written a ser applied.",
+  "practical_guides_to_document_your_internship_better": "Practical guides a document tu práctica better.",
+  "read_article": "Read article",
+  "resources": "Resources",
+  "metadata_title": "Práctica resources",
+  "metadata_description": "Practical guides about práctica journals, horas, informes y estudiante portfolios.",
+  "filters": "Article filtros",
+  "result_count": "{{count}} articles",
+  "clear_filters": "Borrar filtros",
+  "search_placeholder": "Buscar articles…",
+  "all_categories": "Todas las categorías",
+  "all_reading_times": "Todos reading times",
+  "reading_short": "5 minutes o less",
+  "reading_medium": "6 a 10 minutes",
+  "reading_long": "More than 10 minutes",
+  "sort_newest": "Newest primero",
+  "sort_oldest": "Oldest primero",
+  "sort_reading": "Shortest reading primero"
+}

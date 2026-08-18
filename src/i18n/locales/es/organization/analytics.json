@@ -1,0 +1,21 @@
+{
+  "at_risk_placements": "At-risk asignaciones",
+  "average_completion": "Promedio completion",
+  "completion": "Completion",
+  "distribution_of_drafts_submissions_changes_and_approvals": "Distribution de borradores, submissions, changes y approvals.",
+  "hours_completion": "Horas completion",
+  "institution_analytics": "Institución analítica",
+  "no_placements_to_analyze": "Sin asignaciones a analyze.",
+  "no_reports_to_analyze": "Sin informes a analyze.",
+  "percentage_of_required_placement_hours": "Percentage de obligatorio asignación horas.",
+  "report_statuses": "Informe statuses",
+  "reports_to_process": "Informes a process",
+  "students": "Estudiantes",
+  "turn_hours_submissions_and_approvals_into_progress_indicators_without_exposing_o": "Turn horas, submissions y approvals into progreso indicators sin exposing one estudiante’s datos a another.",
+  "filters": "Analítica filtros",
+  "filtered_summary": "{{placements}} asignaciones y {{reports}} informes",
+  "clear_filters": "Borrar filtros",
+  "search_placeholder": "Buscar estudiante, empresa o supervisor…",
+  "all_placement_statuses": "Todos asignación statuses",
+  "all_report_statuses": "Todos informe statuses"
+}

@@ -1,0 +1,12 @@
+{
+  "access_temporarily_blocked": "Accès temporairement bloqué",
+  "back_to_dashboard": "Retour au tableau de bord",
+  "checking": "Vérification…",
+  "delete_one_digit": "Effacer un chiffre",
+  "enter_your_pin_validation_is_automatic": "Saisissez votre PIN. La validation se fait automatiquement.",
+  "entered_pin": "Code PIN saisi",
+  "incorrect_code_attempts_remaining": "Code incorrect. {{count}} tentative(s) restante(s).",
+  "protected_page": "Page protégée",
+  "too_many_attempts_access_blocked_for_5_minutes": "Trop de tentatives. Accès bloqué pendant 5 minutes.",
+  "workspace_unlocked": "Espace déverrouillé."
+}

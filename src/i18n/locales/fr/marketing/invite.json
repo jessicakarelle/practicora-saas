@@ -1,0 +1,11 @@
+{
+  "accept_invitation": "Accepter l’invitation",
+  "back_to_workspaces": "Retour aux espaces",
+  "create_account": "Créer un compte",
+  "institutional_invitation": "Invitation institutionnelle",
+  "sign_in_to_continue": "Se connecter pour continuer",
+  "signed_in_account": "Compte connecté",
+  "supabase_must_be_configured_to_accept_an_institutional_invitation": "Supabase doit être configuré pour accepter une invitation institutionnelle.",
+  "this_invitation_already_contains_the_organization_role_and_intended_assignments_": "Cette invitation contient déjà l’organisation, le rôle et les assignations prévues. Votre compte ne peut pas modifier ces droits lui-même.",
+  "your_membership_and_role_were_added_practicora_will_now_open_the_correct_dashboa": "Votre adhésion et votre rôle ont été ajoutés. Practicora va maintenant ouvrir le bon tableau de bord."
+}

@@ -1,0 +1,22 @@
+{
+  "contact_terms": "Questions about dies product foundation: {{email}}.",
+  "last_updated_july_16_2026": "Letzte updated: July 16, 2026",
+  "local_mode_depends_on_browser_storage_users_should_keep_regular_exports_when_dat": "Lokal mode depends on browser Speicher. Benutzer should keep regular exports when Daten loss would have significant consequences. Recovery cannot sein guaranteed für lokal Daten removed durch der browser oder device.",
+  "practicora_provides_tools_to_document_internships_calculate_hours_organize_goals": "Practicora provides tools zu document Praktika, calculate Stunden, organize Ziele, analyze Fortschritt und produce exports. Der app does nicht replace official attendance, payroll, assessment oder compliance systems used durch ein Institution oder employer.",
+  "terms": "Terms",
+  "text_1_purpose_of_the_service": "1. Purpose von der service",
+  "text_2_accuracy_of_information": "2. Accuracy von information",
+  "text_3_professional_confidentiality": "3. Professionell confidentiality",
+  "text_4_accounts_and_security": "4. Accounts und Sicherheit",
+  "text_5_backups": "5. Backups",
+  "text_6_availability_and_evolution": "6. Availability und evolution",
+  "text_7_contact": "7. Contact",
+  "the_foundation_may_evolve_be_interrupted_or_change_functionality_during_developm": "Der foundation may evolve, sein interrupted oder change functionality during Entwicklung und beta. Future Funktionen shown on der Pricing Seite sind nicht ein commitment zu availability oder price.",
+  "these_terms_describe_the_current_demonstration_foundation_legal_review_for_the_o": "These terms describe der aktuell demonstration foundation. Legal prüfen für der operating jurisdiction und business model ist erforderlich vor public SaaS launch.",
+  "use_practicora_responsibly_and_in_accordance_with_your_workplace": "Use Practicora responsibly und in accordance mit Ihr workplace.",
+  "users_must_follow_the_policies_of_their_institution_and_internship_workplace_pra": "Benutzer muss follow der policies von their Institution und Praktikum workplace. Practicora muss nicht sein used zu store oder share secrets, credentials, customer Daten oder content der Benutzer ist nicht authorized zu process.",
+  "users_remain_responsible_for_the_accuracy_of_dates_hours_descriptions_and_report": "Benutzer remain responsible für der accuracy von dates, Stunden, descriptions und Berichte. Calculations und charts depend on supplied Daten und muss sein reviewed vor official submission.",
+  "when_a_cloud_account_is_enabled_users_must_protect_their_password_verify_their_e": "When ein Cloud Konto ist aktiviert, Benutzer muss protect their password, verify their E-Mail und Bericht unauthorized use. Der lokal PIN nur protects der display von selected Seiten on der device; it does nicht replace operating-system oder Supabase Konto Sicherheit.",
+  "metadata_title": "Terms von use",
+  "metadata_description": "Practicora terms für tracking, storing und exporting Praktikum Daten."
+}

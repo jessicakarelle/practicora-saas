@@ -1,0 +1,11 @@
+{
+  "autosave": "Chaque modification est enregistrée immédiatement et auditée.",
+  "description": "Activez progressivement les capacités sensibles et contrôlez leur pourcentage de déploiement.",
+  "disabled": "Désactivée",
+  "enabled": "Activée",
+  "operation_failed": "Impossible de modifier la fonctionnalité.",
+  "rollout": "Déploiement",
+  "rollout_help": "Pourcentage des comptes éligibles recevant cette fonctionnalité.",
+  "saved": "Fonctionnalité mise à jour.",
+  "title": "Déploiement des fonctionnalités"
+}

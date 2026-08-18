@@ -1,0 +1,11 @@
+{
+  "accept_invitation": "Accept invitation",
+  "back_to_workspaces": "Back a espacios de trabajo",
+  "create_account": "Crear una cuenta",
+  "institutional_invitation": "Institucional invitation",
+  "sign_in_to_continue": "Iniciar sesión a continuar",
+  "signed_in_account": "Signed-in cuenta",
+  "supabase_must_be_configured_to_accept_an_institutional_invitation": "Supabase debe ser configurado a accept un institucional invitation.",
+  "this_invitation_already_contains_the_organization_role_and_intended_assignments_": "Este invitation already contains el organización, rol y intended assignments. Tu cuenta cannot modify those rights itself.",
+  "your_membership_and_role_were_added_practicora_will_now_open_the_correct_dashboa": "Tu membership y rol were added. Practicora se now abrir el correct panel."
+}

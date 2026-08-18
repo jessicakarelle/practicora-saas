@@ -1,0 +1,23 @@
+{
+  "an_internship_journal_may_contain_names_internal_projects_compensation_feedback_": "التدريب السجل may contain names, internal projects, التعويض, الملاحظات أو الشركة information. Do ليس store passwords, API secrets, customer البيانات, medical information أو content الخاص بك workplace prohibits من external tools.",
+  "clearing_browser_data_using_another_profile_or_resetting_the_device_may_make_thi": "Clearing browser البيانات, using another الملف الشخصي أو resetting ال device may make هذا information unavailable. JSON exports provide portable نسخة احتياطية.",
+  "contact_privacy": "لـ الخصوصية question about هذا product foundation: {{email}}.",
+  "in_local_mode_internships_entries_goals_notes_settings_evaluations_and_compensat": "في محلي mode, التدريبات, الإدخالات, الأهداف, الملاحظات, الإعدادات, evaluations و التعويض information هي stored في ال محلي التخزين من ال browser being used. Practicora does ليس تلقائيًا transfer هذا البيانات إلى server.",
+  "last_updated_july_16_2026": "الأخير updated: July 16, 2026",
+  "privacy": "الخصوصية",
+  "supabase_may_send_confirmation_password_recovery_and_security_emails_when_these_": "Supabase may إرسال confirmation, password recovery و الأمان emails when these الميزات هي مفعّل. Delivery depends on ال Supabase project الإعداد و, في production, ال selected SMTP provider.",
+  "text_1_data_stored_in_the_browser": "1. البيانات stored في ال browser",
+  "text_2_accounts_and_supabase_synchronization": "2. Accounts و Supabase synchronization",
+  "text_3_potentially_sensitive_data": "3. Potentially حساس البيانات",
+  "text_4_authentication_emails": "4. Authentication emails",
+  "text_5_export_deletion_and_portability": "5. تصدير, deletion و portability",
+  "text_6_analytics_and_cookies": "6. التحليلات و cookies",
+  "text_7_contact": "7. Contact",
+  "the_app_supports_structured_data_export_local_reset_clears_the_browser_workspace": "ال app supports structured البيانات تصدير. محلي إعادة تعيين clears ال browser مساحة العمل بعد confirmation. السحابة الحساب و البيانات deletion يجب يكون connected إلى production procedures قبل commercialization.",
+  "the_delivered_foundation_does_not_integrate_advertising_or_third_party_behaviora": "ال delivered foundation does ليس integrate advertising أو third-party behavioral tracking. Any future التحليلات يجب يكون documented here و مُعد according إلى applicable obligations.",
+  "this_policy_describes_the_current_practicora_foundation_it_must_be_adapted_to_th": "هذا policy describes ال الحالي Practicora foundation. It يجب يكون adapted إلى ال final domain, hosting provider و business model قبل public launch.",
+  "when_supabase_variables_are_configured_and_a_user_creates_an_account_supabase_pr": "When Supabase variables هي مُعد و المستخدم creates الحساب, Supabase processes ال عنوان البريد الإلكتروني, authentication information و JSON snapshot من مساحة العمل البيانات. ال provided table uses Row Level الأمان policies إلى limit الوصول إلى ال matching authenticated المستخدم.",
+  "your_internship_data_should_remain_under_your_control": "الخاص بك التدريب البيانات should remain under الخاص بك التحكم.",
+  "metadata_title": "الخصوصية",
+  "metadata_description": "Understand how Practicora stores البيانات locally و uses Supabase when السحابة synchronization هو مفعّل."
+}

@@ -1,0 +1,15 @@
+{
+  "metadata_title": "Accessibilité | Practicora",
+  "metadata_description": "Direction d’accessibilité pour la navigation, les formulaires, les animations et les mises en page adaptatives.",
+  "eyebrow": "Accessibilité",
+  "title": "Un produit utilisable dans des conditions réelles",
+  "description": "Practicora vise l’accès au clavier, des contrastes lisibles, des mises en page adaptatives et des animations respectant les préférences.",
+  "section_1_title": "Clavier et focus",
+  "section_1_description": "Les contrôles interactifs utilisent des états de focus visibles et un ordre de tabulation prévisible.",
+  "section_2_title": "Information adaptative",
+  "section_2_description": "Les vues denses se réorganisent sur les petits écrans au lieu de masquer les actions essentielles.",
+  "section_3_title": "Préférences d’animation",
+  "section_3_description": "Les préférences de réduction des animations limitent les mouvements décoratifs tout en conservant les changements d’état utiles.",
+  "section_4_title": "Révision continue",
+  "section_4_description": "L’accessibilité est un travail produit continu qui doit être testé avec de vraies personnes et technologies d’assistance."
+}

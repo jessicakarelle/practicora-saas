@@ -1,0 +1,18 @@
+{
+  "cancelled": "Storniert",
+  "custom": "benutzerdefiniert",
+  "description": "Track persönlich und institutionell Abonnements, Tarif, Zeitraum und Zahlung Status.",
+  "empty": "Keine Abonnements yet.",
+  "institution": "Institution",
+  "monthly": "monthly",
+  "owner": "Customer",
+  "past_due": "Past due",
+  "personal": "Persönlich",
+  "plan": "Tarif",
+  "price": "Price",
+  "renewal": "Zeitraum end",
+  "status": "Status",
+  "title": "Abonnements",
+  "trialing": "Trial",
+  "yearly": "yearly"
+}

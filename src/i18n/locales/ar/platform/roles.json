@@ -1,0 +1,20 @@
+{
+  "admin_description": "General الإدارة بدون ال ability إلى إزالة ال الأخير مدير المنصة.",
+  "admin_name": "المنصة administrator",
+  "auditor_description": "Read الوصول إلى controls, events, risks و حساس decisions.",
+  "auditor_name": "المنصة auditor",
+  "finance_description": "Management من الخطط, prices, الاشتراكات, quotas و commercial indicators.",
+  "finance_name": "Finance و الاشتراكات",
+  "operations_description": "Management من المؤسسات, المستخدمون, الدعم و البيانات العمليات.",
+  "operations_name": "المنصة العمليات",
+  "owner_description": "Full Practicora التحكم, last-owner الحماية و الوصول إلى حرج decisions.",
+  "owner_name": "مدير المنصة",
+  "platform_admin": "المنصة administrator",
+  "platform_auditor": "المنصة auditor",
+  "platform_finance": "Finance و الاشتراكات",
+  "platform_operations": "المنصة العمليات",
+  "platform_owner": "مدير المنصة",
+  "platform_support": "المنصة الدعم",
+  "support_description": "الحساب diagnostics و fully audited temporary الدعم الجلسات.",
+  "support_name": "المنصة الدعم"
+}

@@ -1,0 +1,274 @@
+[
+  {
+    "slug": "comment-rediger-un-journal-de-stage-professionnel",
+    "publishedAt": "2026-07-01",
+    "updatedAt": "2026-07-16",
+    "readingMinutes": 10,
+    "title": "How para write um profissional estágio diário que é genuinely useful",
+    "description": "UM concluir method para document seu dias, demonstrate progresso e prepare um strong estágio relatório sem rebuilding everything at o end.",
+    "category": "Methodology",
+    "sections": [
+      {
+        "heading": "What é um estágio diário really para?",
+        "paragraphs": [
+          "Um estágio diário é more than proof de attendance. It preserves um reliable record de concluído work, decisions, challenges e aprendizagem em um profissional context.",
+          "When updated consistently, it becomes um source para seu final relatório, supervisor meetings, portfolio e future interviews. Você sem longer need para rely on incomplete memories weeks após o work happened."
+        ]
+      },
+      {
+        "heading": "Describe um contribution, não just um activity",
+        "paragraphs": [
+          "UM sentence such as “worked on o website” é too vague. It does não explain o context, seu responsibility ou o outcome. UM profissional registro states what needed improvement, what você did, o constraints e what changed because de seu contribution.",
+          "UM dependable structure answers four questions: what did você concluir, why did it matter, how did você approach it e what did você aprender?"
+        ],
+        "bullets": [
+          "Context: o problem, solicitação ou objetivo",
+          "Ação: seu responsibility e method",
+          "Outcome: deliverable, decision, correction ou visible progresso",
+          "Aprendizagem: competência, concept ou profissional behavior developed"
+        ]
+      },
+      {
+        "heading": "Use um repeatable structure sem writing um essay",
+        "paragraphs": [
+          "Consistency matters more than length. UM stable structure reduces writing effort e makes dias comparable. UM few precise paragraphs são more useful than one long, disorganized descrição.",
+          "Separate concluído work, aprendizagem, challenges, próximo steps e evidências. Este makes filtering e future summaries much more reliable."
+        ],
+        "bullets": [
+          "Start, end e break times",
+          "Project, work categoria e modo de trabalho",
+          "Concluído work e outcomes",
+          "Blockers, feedback e próximo step",
+          "Tarefas, competências, technologies e evidências links"
+        ]
+      },
+      {
+        "heading": "Document challenges com maturity",
+        "paragraphs": [
+          "UM challenge does não make você less competent. When explained well, it demonstrates análise, autonomy e o way você seek help. Avoid blaming idioma; describe facts e seu response.",
+          "Para example, explain que você encountered um incompatibility, reviewed documentation, reproduced o issue, compared options e requested validation antes de applying o fix."
+        ]
+      },
+      {
+        "heading": "Turn registros into evidências para relatórios e portfolios",
+        "paragraphs": [
+          "At o end de o estágio, group registros por project, competência ou objetivo. Measurable outcomes, technical decisions, feedback e deliverables são especially valuable para um credible relatório.",
+          "Para um portfolio, remover confidential information e foco on seu função, reasoning e impact. UM strong diário lets você describe seu contribution accurately sem claiming o entire team’s work."
+        ],
+        "bullets": [
+          "Measured outcomes ou observable changes",
+          "Before-and-after improvements",
+          "Technical decisions e trade-offs",
+          "Competências demonstrated through concrete examples",
+          "Feedback received e improvements made"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "suivre-ses-heures-de-stage-sans-erreur",
+    "publishedAt": "2026-06-20",
+    "updatedAt": "2026-07-15",
+    "readingMinutes": 8,
+    "title": "Track estágio horas accurately sem last-minute reconstruction",
+    "description": "Rules, calculations e habits que prevent discrepancies between seu diário, timesheets e final relatório.",
+    "category": "Organização",
+    "sections": [
+      {
+        "heading": "Enter horas on o same dia",
+        "paragraphs": [
+          "O longer você wait, o more likely você são para forget um break, early departure, late reunião ou remoto workday. Daily registro takes little tempo e protects dados quality.",
+          "Ideally, concluir o registro antes de leaving work ou later o same evening. Automático rascunhos let você begin during o dia e finish sem losing work."
+        ]
+      },
+      {
+        "heading": "Use one consistent calculation method",
+        "paragraphs": [
+          "Always use o same fields: start tempo, end tempo e break duration. Totals should ser calculated automaticamente para reduce conversion errors between decimal horas e horas/minutes.",
+          "Para example, 7 horas 30 minutes equals 7.5 decimal horas. Este matters para progresso, remuneração e weekly averages."
+        ]
+      },
+      {
+        "heading": "Separate attendance, documented work e targets",
+        "paragraphs": [
+          "UM total number de horas does não explain estágio quality por itself. Connect cada dia para actual work, tarefas e aprendizagem so o total é backed por um coherent histórico.",
+          "Compare logged horas com o overall e weekly targets. Um early discrepancy é easy para correct; one discovered o dia antes de um final relatório é much harder para explain."
+        ],
+        "bullets": [
+          "Estágio total e progresso percentage",
+          "Weekly total e difference de target",
+          "Missing ou incomplete dias",
+          "Unusual horas que need revisar"
+        ]
+      },
+      {
+        "heading": "Revisar exceptional periods",
+        "paragraphs": [
+          "Holidays, appointments, training, travel e overtime deve follow o rules de seu instituição de ensino e employer. Do não assume they são todos counted o same way.",
+          "Adicionar um short nota whenever um dia differs de o normal schedule. Este saves tempo later."
+        ]
+      },
+      {
+        "heading": "Prepare um verifiable record",
+        "paragraphs": [
+          "Antes de submitting um relatório, exportar um date-based record com start, end, break e total. Check duplicates, impossible dates e missing periods.",
+          "Keep um JSON ou CSV backup as well. It lets você restaurar o dados e explain seu calculation method when needed."
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "transformer-son-stage-en-portfolio",
+    "publishedAt": "2026-06-10",
+    "updatedAt": "2026-07-14",
+    "readingMinutes": 10,
+    "title": "Turn seu estágio into um profissional portfolio sem exposing confidential information",
+    "description": "How para select o right projects, aprendizagem e outcomes para strengthen seu portfolio e future applications.",
+    "category": "Career",
+    "sections": [
+      {
+        "heading": "Identify demonstrable contributions",
+        "paragraphs": [
+          "UM credible portfolio presents seu exact função, project constraints e observable outcomes. Do não claim o entire team’s work; show seu contribution, decisions e aprendizagem.",
+          "O strongest examples são não always o most spectacular. UM difficult fix, accessibility improvement, test automation ou limpar documentation pode demonstrate significant maturity."
+        ]
+      },
+      {
+        "heading": "Criar um evidências brief para cada project",
+        "paragraphs": [
+          "Keep um structured brief para cada important project. It será help você write um coherent case study e answer interview questions."
+        ],
+        "bullets": [
+          "Context e problem",
+          "Seu função e level de autonomy",
+          "Technical, human ou tempo constraints",
+          "Selected approach e alternatives",
+          "Outcome, aprendizagem e future improvement"
+        ]
+      },
+      {
+        "heading": "Connect tarefas para competências",
+        "paragraphs": [
+          "One contribution pode demonstrate architecture, quality, communication, accessibility, análise, prioritization ou collaboration. Use precise examples instead de um generic technology list.",
+          "Rather than writing apenas “React,” explain how você structured components, managed state, improved responsive behavior ou reduced regressions."
+        ]
+      },
+      {
+        "heading": "Protect empresa information",
+        "paragraphs": [
+          "Never publicar credentials, customer dados, internal screenshots, private URLs, technical secrets ou confidential code. Ask permissão antes de showing anything owned por o empresa.",
+          "Você pode often anonymize o context, rebuild um mockup com synthetic dados e explain seu reasoning sem exposing o real product."
+        ]
+      },
+      {
+        "heading": "Prepare um limpar interview story",
+        "paragraphs": [
+          "UM case study should ser summarized em um few minutes: situation, responsibility, ações, result e reflection. Seu diário provides o detalhes obrigatório para stay accurate sem memorizing um script.",
+          "End com what você would do differently today. Que reflection demonstrates genuine growth."
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "preparer-un-rapport-de-stage-structure",
+    "publishedAt": "2026-07-08",
+    "updatedAt": "2026-07-16",
+    "readingMinutes": 11,
+    "title": "Prepare um structured estágio relatório de reliable dados",
+    "description": "UM process para turning um daily diário into um limpar, evidence-based relatório supported por concrete examples.",
+    "category": "Relatórios",
+    "sections": [
+      {
+        "heading": "Start com official requirements",
+        "paragraphs": [
+          "Antes de writing, revisar o grading rubric, obrigatório structure, expected length e confidentiality rules. UM strong relatório primeiro satisfies seu programa’s requirements.",
+          "Criar um checklist e connect cada requirement para disponível diário dados: projects, horas, competências, challenges, objetivos e feedback."
+        ]
+      },
+      {
+        "heading": "Build um central narrative",
+        "paragraphs": [
+          "UM relatório é não um chronological copy de cada dia. Choose um central narrative, such as growing autonomy, aprendizagem um profissional process ou delivering um important project.",
+          "Daily registros then provide evidências para que narrative."
+        ]
+      },
+      {
+        "heading": "Select representative examples",
+        "paragraphs": [
+          "Choose um few situations que demonstrate different competências. Para cada one, explain context, ação, result e aprendizagem. Avoid accumulating detalhes sem análise."
+        ],
+        "bullets": [
+          "Um important project ou deliverable",
+          "UM challenge solved methodically",
+          "Feedback que led para um improvement",
+          "Growth em collaboration ou communication",
+          "UM competência performed com greater autonomy"
+        ]
+      },
+      {
+        "heading": "Suporte conclusions com dados",
+        "paragraphs": [
+          "Dados does não replace análise, but it strengthens it. Use horas, objetivo progresso, competência frequency ou work-category distribution para demonstrate real trends.",
+          "Always explain what um chart ou number means. UM visual sem interpretation remains decorative."
+        ]
+      },
+      {
+        "heading": "Revisar credibility e confidentiality",
+        "paragraphs": [
+          "Make sure cada important claim pode ser supported por um registro, aprovado evidências ou um precise observation. Remover sensível information e replace real names where necessary.",
+          "Finish com idioma revision, data checks e um comparison com seu hora record. Este prevents contradictions between sections."
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "objectifs-smart-stage-competences",
+    "publishedAt": "2026-07-11",
+    "updatedAt": "2026-07-16",
+    "readingMinutes": 9,
+    "title": "Set measurable estágio objetivos e track developed competências",
+    "description": "How para turn vague intentions into observable objetivos e connect daily work para evidências de progresso.",
+    "category": "Progresso",
+    "sections": [
+      {
+        "heading": "Avoid objetivos que são too general",
+        "paragraphs": [
+          "“Become better at programming” ou “improve communication” são useful intentions, but they do não define when progresso has been achieved. Um estágio objetivo should describe um observable outcome.",
+          "Specify o context, expected ação, level de autonomy e evidências que será confirmar progresso."
+        ]
+      },
+      {
+        "heading": "Use measurable wording",
+        "paragraphs": [
+          "UM strong objetivo pode include um deadline, frequency, deliverable ou quality criterion. It deve remain realistic para o estágio duration e assigned responsibilities."
+        ],
+        "bullets": [
+          "Deliver um concluir funcionalidade com code revisar",
+          "Present um limpar weekly atualizar para four weeks",
+          "Reduce um tipo de defect through um testes procedure",
+          "Document um process another team membro pode follow"
+        ]
+      },
+      {
+        "heading": "Break objetivos into intermediate progresso",
+        "paragraphs": [
+          "UM progresso percentage should não ser arbitrary. Define stages: observation, guided execution, autonomous execution, validation e improvement. Atualizar progresso based on real events."
+        ]
+      },
+      {
+        "heading": "Connect daily registros para competências",
+        "paragraphs": [
+          "Adicionar o competências e technologies actually used em cada registro. Over tempo, o frequency e variety de examples demonstrate progresso better than um single final self-assessment.",
+          "Include um sentence explaining how o competência was used. Context turns um label into evidências."
+        ]
+      },
+      {
+        "heading": "Revisar regularly",
+        "paragraphs": [
+          "UM short weekly revisar é enough para check objetivos, adjust priorities e identify um competência que has received little attention. Este helps você discuss progresso com um supervisor using concrete information.",
+          "At o end de o estágio, você será have um histórico showing não apenas what você pode do, but how que ability developed."
+        ]
+      }
+    ]
+  }
+]

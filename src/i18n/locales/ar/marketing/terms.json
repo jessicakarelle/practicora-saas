@@ -1,0 +1,22 @@
+{
+  "contact_terms": "Questions about هذا product foundation: {{email}}.",
+  "last_updated_july_16_2026": "الأخير updated: July 16, 2026",
+  "local_mode_depends_on_browser_storage_users_should_keep_regular_exports_when_dat": "محلي mode depends on browser التخزين. المستخدمون should keep regular exports when البيانات loss would have significant consequences. Recovery cannot يكون guaranteed لـ محلي البيانات removed بواسطة ال browser أو device.",
+  "practicora_provides_tools_to_document_internships_calculate_hours_organize_goals": "Practicora provides tools إلى document التدريبات, calculate الساعات, organize الأهداف, analyze التقدم و produce exports. ال app does ليس replace official attendance, payroll, assessment أو compliance systems used بواسطة المؤسسة أو employer.",
+  "terms": "Terms",
+  "text_1_purpose_of_the_service": "1. Purpose من ال service",
+  "text_2_accuracy_of_information": "2. Accuracy من information",
+  "text_3_professional_confidentiality": "3. مهني confidentiality",
+  "text_4_accounts_and_security": "4. Accounts و الأمان",
+  "text_5_backups": "5. Backups",
+  "text_6_availability_and_evolution": "6. Availability و evolution",
+  "text_7_contact": "7. Contact",
+  "the_foundation_may_evolve_be_interrupted_or_change_functionality_during_developm": "ال foundation may evolve, يكون interrupted أو change functionality during التطوير و beta. Future الميزات shown on ال Pricing الصفحة هي ليس commitment إلى availability أو price.",
+  "these_terms_describe_the_current_demonstration_foundation_legal_review_for_the_o": "These terms describe ال الحالي demonstration foundation. Legal مراجعة لـ ال operating jurisdiction و business model هو مطلوب قبل public SaaS launch.",
+  "use_practicora_responsibly_and_in_accordance_with_your_workplace": "Use Practicora responsibly و في accordance مع الخاص بك workplace.",
+  "users_must_follow_the_policies_of_their_institution_and_internship_workplace_pra": "المستخدمون يجب follow ال policies من their المؤسسة و التدريب workplace. Practicora يجب ليس يكون used إلى store أو share secrets, credentials, customer البيانات أو content ال المستخدم هو ليس authorized إلى process.",
+  "users_remain_responsible_for_the_accuracy_of_dates_hours_descriptions_and_report": "المستخدمون remain responsible لـ ال accuracy من dates, الساعات, descriptions و التقارير. Calculations و charts depend on supplied البيانات و يجب يكون reviewed قبل official submission.",
+  "when_a_cloud_account_is_enabled_users_must_protect_their_password_verify_their_e": "When السحابة الحساب هو مفعّل, المستخدمون يجب protect their password, verify their البريد الإلكتروني و التقرير unauthorized use. ال محلي PIN فقط protects ال display من selected الصفحات on ال device; it does ليس replace operating-system أو Supabase الحساب الأمان.",
+  "metadata_title": "Terms من use",
+  "metadata_description": "Practicora terms لـ tracking, storing و exporting التدريب البيانات."
+}

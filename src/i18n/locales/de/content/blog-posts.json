@@ -1,0 +1,274 @@
+[
+  {
+    "slug": "comment-rediger-un-journal-de-stage-professionnel",
+    "publishedAt": "2026-07-01",
+    "updatedAt": "2026-07-16",
+    "readingMinutes": 10,
+    "title": "How zu write ein professionell Praktikum Tagebuch dass ist genuinely useful",
+    "description": "EIN abschließen method zu document Ihr Tage, demonstrate Fortschritt und prepare ein strong Praktikum Bericht ohne rebuilding everything at der end.",
+    "category": "Methodology",
+    "sections": [
+      {
+        "heading": "What ist ein Praktikum Tagebuch really für?",
+        "paragraphs": [
+          "Ein Praktikum Tagebuch ist more than proof von attendance. It preserves ein reliable record von abgeschlossen work, decisions, challenges und Lernen in ein professionell context.",
+          "When updated consistently, it becomes ein source für Ihr final Bericht, Betreuung meetings, portfolio und future interviews. Sie keine longer need zu rely on incomplete memories weeks nach der work happened."
+        ]
+      },
+      {
+        "heading": "Describe ein contribution, nicht just ein activity",
+        "paragraphs": [
+          "EIN sentence such as “worked on der website” ist too vague. It does nicht explain der context, Ihr responsibility oder der outcome. EIN professionell Eintrag states what needed improvement, what Sie did, der constraints und what changed because von Ihr contribution.",
+          "EIN dependable structure answers four questions: what did Sie abschließen, why did it matter, how did Sie approach it und what did Sie lernen?"
+        ],
+        "bullets": [
+          "Context: der problem, Anfrage oder Ziel",
+          "Aktion: Ihr responsibility und method",
+          "Outcome: deliverable, decision, correction oder visible Fortschritt",
+          "Lernen: Kompetenz, concept oder professionell behavior developed"
+        ]
+      },
+      {
+        "heading": "Use ein repeatable structure ohne writing ein essay",
+        "paragraphs": [
+          "Consistency matters more than length. EIN stable structure reduces writing effort und makes Tage comparable. EIN few precise paragraphs sind more useful than one long, disorganized Beschreibung.",
+          "Separate abgeschlossen work, Lernen, challenges, nächste steps und Nachweise. Dies makes filtering und future summaries much more reliable."
+        ],
+        "bullets": [
+          "Start, end und break times",
+          "Project, work Kategorie und Arbeitsmodus",
+          "Abgeschlossen work und outcomes",
+          "Blockers, Feedback und nächste step",
+          "Aufgaben, Kompetenzen, technologies und Nachweise Links"
+        ]
+      },
+      {
+        "heading": "Document challenges mit maturity",
+        "paragraphs": [
+          "EIN challenge does nicht make Sie less competent. When explained well, it demonstrates Analyse, autonomy und der way Sie seek help. Avoid blaming Sprache; describe facts und Ihr response.",
+          "Für example, explain dass Sie encountered ein incompatibility, reviewed documentation, reproduced der issue, compared options und requested validation vor applying der fix."
+        ]
+      },
+      {
+        "heading": "Turn Einträge into Nachweise für Berichte und portfolios",
+        "paragraphs": [
+          "At der end von der Praktikum, group Einträge durch project, Kompetenz oder Ziel. Measurable outcomes, technical decisions, Feedback und deliverables sind especially valuable für ein credible Bericht.",
+          "Für ein portfolio, entfernen confidential information und Fokus on Ihr Rolle, reasoning und impact. EIN strong Tagebuch lets Sie describe Ihr contribution accurately ohne claiming der entire team’s work."
+        ],
+        "bullets": [
+          "Measured outcomes oder observable changes",
+          "Before-and-after improvements",
+          "Technical decisions und trade-offs",
+          "Kompetenzen demonstrated through concrete examples",
+          "Feedback received und improvements made"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "suivre-ses-heures-de-stage-sans-erreur",
+    "publishedAt": "2026-06-20",
+    "updatedAt": "2026-07-15",
+    "readingMinutes": 8,
+    "title": "Track Praktikum Stunden accurately ohne last-minute reconstruction",
+    "description": "Rules, calculations und habits dass prevent discrepancies between Ihr Tagebuch, timesheets und final Bericht.",
+    "category": "Organisation",
+    "sections": [
+      {
+        "heading": "Enter Stunden on der same Tag",
+        "paragraphs": [
+          "Der longer Sie wait, der more likely Sie sind zu forget ein break, early departure, late Besprechung oder remote workday. Daily Eintrag takes little Zeit und protects Daten quality.",
+          "Ideally, abschließen der Eintrag vor leaving work oder later der same evening. Automatisch Entwürfe let Sie begin during der Tag und finish ohne losing work."
+        ]
+      },
+      {
+        "heading": "Use one consistent calculation method",
+        "paragraphs": [
+          "Always use der same fields: start Zeit, end Zeit und break duration. Totals should sein calculated automatisch zu reduce conversion errors between decimal Stunden und Stunden/minutes.",
+          "Für example, 7 Stunden 30 minutes equals 7.5 decimal Stunden. Dies matters für Fortschritt, Vergütung und weekly averages."
+        ]
+      },
+      {
+        "heading": "Separate attendance, documented work und targets",
+        "paragraphs": [
+          "EIN Gesamt number von Stunden does nicht explain Praktikum quality durch itself. Connect jede Tag zu actual work, Aufgaben und Lernen so der Gesamt ist backed durch ein coherent Verlauf.",
+          "Compare logged Stunden mit der overall und weekly targets. Ein early discrepancy ist easy zu correct; one discovered der Tag vor ein final Bericht ist much harder zu explain."
+        ],
+        "bullets": [
+          "Praktikum Gesamt und Fortschritt percentage",
+          "Weekly Gesamt und difference von target",
+          "Missing oder incomplete Tage",
+          "Unusual Stunden dass need prüfen"
+        ]
+      },
+      {
+        "heading": "Prüfen exceptional periods",
+        "paragraphs": [
+          "Holidays, appointments, training, travel und overtime muss follow der rules von Ihr Bildungseinrichtung und employer. Do nicht assume they sind alle counted der same way.",
+          "Hinzufügen ein short Notiz whenever ein Tag differs von der normal schedule. Dies saves Zeit later."
+        ]
+      },
+      {
+        "heading": "Prepare ein verifiable record",
+        "paragraphs": [
+          "Vor submitting ein Bericht, exportieren ein date-based record mit start, end, break und Gesamt. Check duplicates, impossible dates und missing periods.",
+          "Keep ein JSON oder CSV Sicherung as well. It lets Sie wiederherstellen der Daten und explain Ihr calculation method when needed."
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "transformer-son-stage-en-portfolio",
+    "publishedAt": "2026-06-10",
+    "updatedAt": "2026-07-14",
+    "readingMinutes": 10,
+    "title": "Turn Ihr Praktikum into ein professionell portfolio ohne exposing confidential information",
+    "description": "How zu select der right projects, Lernen und outcomes zu strengthen Ihr portfolio und future applications.",
+    "category": "Career",
+    "sections": [
+      {
+        "heading": "Identify demonstrable contributions",
+        "paragraphs": [
+          "EIN credible portfolio presents Ihr exact Rolle, project constraints und observable outcomes. Do nicht claim der entire team’s work; show Ihr contribution, decisions und Lernen.",
+          "Der strongest examples sind nicht always der most spectacular. EIN difficult fix, accessibility improvement, test automation oder zurücksetzen documentation kann demonstrate significant maturity."
+        ]
+      },
+      {
+        "heading": "Erstellen ein Nachweise brief für jede project",
+        "paragraphs": [
+          "Keep ein structured brief für jede important project. It wird help Sie write ein coherent case study und answer interview questions."
+        ],
+        "bullets": [
+          "Context und problem",
+          "Ihr Rolle und level von autonomy",
+          "Technical, human oder Zeit constraints",
+          "Selected approach und alternatives",
+          "Outcome, Lernen und future improvement"
+        ]
+      },
+      {
+        "heading": "Connect Aufgaben zu Kompetenzen",
+        "paragraphs": [
+          "One contribution kann demonstrate architecture, quality, communication, accessibility, Analyse, prioritization oder collaboration. Use precise examples instead von ein generic technology list.",
+          "Rather than writing nur “React,” explain how Sie structured components, managed state, improved responsive behavior oder reduced regressions."
+        ]
+      },
+      {
+        "heading": "Protect Unternehmen information",
+        "paragraphs": [
+          "Never veröffentlichen credentials, customer Daten, internal screenshots, private URLs, technical secrets oder confidential code. Ask Berechtigung vor showing anything owned durch der Unternehmen.",
+          "Sie kann often anonymize der context, rebuild ein mockup mit synthetic Daten und explain Ihr reasoning ohne exposing der real product."
+        ]
+      },
+      {
+        "heading": "Prepare ein zurücksetzen interview story",
+        "paragraphs": [
+          "EIN case study should sein summarized in ein few minutes: situation, responsibility, Aktionen, result und reflection. Ihr Tagebuch provides der Details erforderlich zu stay accurate ohne memorizing ein script.",
+          "End mit what Sie would do differently today. Dass reflection demonstrates genuine growth."
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "preparer-un-rapport-de-stage-structure",
+    "publishedAt": "2026-07-08",
+    "updatedAt": "2026-07-16",
+    "readingMinutes": 11,
+    "title": "Prepare ein structured Praktikum Bericht von reliable Daten",
+    "description": "EIN process für turning ein daily Tagebuch into ein zurücksetzen, evidence-based Bericht supported durch concrete examples.",
+    "category": "Berichte",
+    "sections": [
+      {
+        "heading": "Start mit official requirements",
+        "paragraphs": [
+          "Vor writing, prüfen der grading rubric, erforderlich structure, expected length und confidentiality rules. EIN strong Bericht erste satisfies Ihr Programm’s requirements.",
+          "Erstellen ein checklist und connect jede requirement zu verfügbar Tagebuch Daten: projects, Stunden, Kompetenzen, challenges, Ziele und Feedback."
+        ]
+      },
+      {
+        "heading": "Build ein central narrative",
+        "paragraphs": [
+          "EIN Bericht ist nicht ein chronological copy von jede Tag. Choose ein central narrative, such as growing autonomy, Lernen ein professionell process oder delivering ein important project.",
+          "Daily Einträge then provide Nachweise für dass narrative."
+        ]
+      },
+      {
+        "heading": "Select representative examples",
+        "paragraphs": [
+          "Choose ein few situations dass demonstrate different Kompetenzen. Für jede one, explain context, Aktion, result und Lernen. Avoid accumulating Details ohne Analyse."
+        ],
+        "bullets": [
+          "Ein important project oder deliverable",
+          "EIN challenge solved methodically",
+          "Feedback dass led zu ein improvement",
+          "Growth in collaboration oder communication",
+          "EIN Kompetenz performed mit greater autonomy"
+        ]
+      },
+      {
+        "heading": "Support conclusions mit Daten",
+        "paragraphs": [
+          "Daten does nicht replace Analyse, but it strengthens it. Use Stunden, Ziel Fortschritt, Kompetenz frequency oder work-category distribution zu demonstrate real trends.",
+          "Always explain what ein chart oder number means. EIN visual ohne interpretation remains decorative."
+        ]
+      },
+      {
+        "heading": "Prüfen credibility und confidentiality",
+        "paragraphs": [
+          "Make sure jede important claim kann sein supported durch ein Eintrag, genehmigt Nachweise oder ein precise observation. Entfernen sensibel information und replace real names where necessary.",
+          "Finish mit Sprache revision, Datum checks und ein comparison mit Ihr Stunde record. Dies prevents contradictions between sections."
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "objectifs-smart-stage-competences",
+    "publishedAt": "2026-07-11",
+    "updatedAt": "2026-07-16",
+    "readingMinutes": 9,
+    "title": "Set measurable Praktikum Ziele und track developed Kompetenzen",
+    "description": "How zu turn vague intentions into observable Ziele und connect daily work zu Nachweise von Fortschritt.",
+    "category": "Fortschritt",
+    "sections": [
+      {
+        "heading": "Avoid Ziele dass sind too general",
+        "paragraphs": [
+          "“Become better at programming” oder “improve communication” sind useful intentions, but they do nicht define when Fortschritt has been achieved. Ein Praktikum Ziel should describe ein observable outcome.",
+          "Specify der context, expected Aktion, level von autonomy und Nachweise dass wird bestätigen Fortschritt."
+        ]
+      },
+      {
+        "heading": "Use measurable wording",
+        "paragraphs": [
+          "EIN strong Ziel kann include ein deadline, frequency, deliverable oder quality criterion. It muss remain realistic für der Praktikum duration und assigned responsibilities."
+        ],
+        "bullets": [
+          "Deliver ein abschließen Funktion mit code prüfen",
+          "Present ein zurücksetzen weekly aktualisieren für four weeks",
+          "Reduce ein Typ von defect through ein Tests procedure",
+          "Document ein process another team Mitglied kann follow"
+        ]
+      },
+      {
+        "heading": "Break Ziele into intermediate Fortschritt",
+        "paragraphs": [
+          "EIN Fortschritt percentage should nicht sein arbitrary. Define stages: observation, guided execution, autonomous execution, validation und improvement. Aktualisieren Fortschritt based on real events."
+        ]
+      },
+      {
+        "heading": "Connect daily Einträge zu Kompetenzen",
+        "paragraphs": [
+          "Hinzufügen der Kompetenzen und technologies actually used in jede Eintrag. Over Zeit, der frequency und variety von examples demonstrate Fortschritt better than ein single final self-assessment.",
+          "Include ein sentence explaining how der Kompetenz was used. Context turns ein label into Nachweise."
+        ]
+      },
+      {
+        "heading": "Prüfen regularly",
+        "paragraphs": [
+          "EIN short weekly prüfen ist enough zu check Ziele, adjust priorities und identify ein Kompetenz dass has received little attention. Dies helps Sie discuss Fortschritt mit ein Betreuung using concrete information.",
+          "At der end von der Praktikum, Sie wird have ein Verlauf showing nicht nur what Sie kann do, but how dass ability developed."
+        ]
+      }
+    ]
+  }
+]

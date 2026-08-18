@@ -1,0 +1,13 @@
+{
+  "description": "Monitor counters أن drive الخطة limits و future capacity needs.",
+  "empty": "لا الاستخدام counters recorded.",
+  "feature": "الميزة",
+  "from_to": "من {{start}} إلى {{end}}",
+  "organization": "المؤسسة",
+  "period": "الفترة",
+  "quantity": "Quantity",
+  "subject": "الحساب أو المؤسسة",
+  "title": "الاستخدام و quotas",
+  "updated": "Updated",
+  "user": "المستخدم"
+}

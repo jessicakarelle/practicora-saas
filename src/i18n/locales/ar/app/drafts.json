@@ -1,0 +1,16 @@
+{
+  "attachments": "{{count}} مرفق(s)",
+  "cancel": "إلغاء",
+  "create": "إنشاء مسودة",
+  "delete": "حذف",
+  "delete_description": "هذا مسودة’s محلي البيانات و المرفقات سوف يكون deleted.",
+  "delete_title": "حذف هذا مسودة?",
+  "description": "كل يوم جديد هو محفوظ تلقائيًا until it هو published إلى ال السجل.",
+  "empty_description": "Start اليوم و الخاص بك changes سوف يكون محفوظ here تلقائيًا.",
+  "empty_summary": "لا الملخص has been entered yet.",
+  "empty_title": "لا المسودات في التقدم",
+  "new": "يوم جديد",
+  "resume": "Resume",
+  "title": "المسودات",
+  "untitled": "Untitled اليوم"
+}

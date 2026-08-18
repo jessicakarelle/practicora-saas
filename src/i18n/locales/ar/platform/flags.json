@@ -1,0 +1,12 @@
+{
+  "advanced_reports_description": "التقرير studio, exports و مراجعة workflows.",
+  "advanced_reports_name": "Advanced التقارير",
+  "billing_enforcement_description": "Blocks الميزات when entitlements أو quotas هي exceeded.",
+  "billing_enforcement_name": "الفوترة enforcement",
+  "institutional_core_description": "Organizations, الأدوار, المجموعات, التعيينات و approvals.",
+  "institutional_core_name": "مؤسسي core",
+  "social_auth_description": "Google, GitHub, Microsoft و Apple through Supabase Auth.",
+  "social_auth_name": "Social authentication",
+  "support_sessions_description": "Temporary, justified و audited الوصول إلى targeted البيانات.",
+  "support_sessions_name": "الدعم الجلسات"
+}

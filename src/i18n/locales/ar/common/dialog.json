@@ -1,0 +1,9 @@
+{
+  "cancel": "إلغاء",
+  "close": "إغلاق",
+  "confirm_action": "تأكيد الإجراء",
+  "okay": "OK",
+  "reason_label": "Detailed السبب",
+  "reason_minimum": "ال السبب يجب contain at least 10 characters.",
+  "reason_placeholder": "Explain هذا decision precisely…"
+}

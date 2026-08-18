@@ -1,0 +1,16 @@
+{
+  "attachments": "{{count}} attachment(s)",
+  "cancel": "Cancel",
+  "create": "Create a draft",
+  "delete": "Delete",
+  "delete_description": "This draft’s local data and attachments will be deleted.",
+  "delete_title": "Delete this draft?",
+  "description": "Every new day is saved automatically until it is published to the journal.",
+  "empty_description": "Start a day and your changes will be saved here automatically.",
+  "empty_summary": "No summary has been entered yet.",
+  "empty_title": "No drafts in progress",
+  "new": "New day",
+  "resume": "Resume",
+  "title": "Drafts",
+  "untitled": "Untitled day"
+}

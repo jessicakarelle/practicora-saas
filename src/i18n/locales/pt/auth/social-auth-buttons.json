@@ -1,0 +1,19 @@
+{
+  "cards_visible_notice": "Os provedores não configurados continuam visíveis e mostram a ação necessária.",
+  "close": "Fechar",
+  "configuration_required": "Configuração necessária",
+  "configuration_required_description": "O acesso com {{provider}} deve ser ativado primeiro no Supabase e na configuração pública da Practicora.",
+  "continue_with": "Continuar com",
+  "or_with_your_email": "ou continuar com",
+  "provider_apple": "Apple",
+  "provider_azure": "Microsoft",
+  "provider_github": "GitHub",
+  "provider_google": "Google",
+  "provider_not_enabled": "{{provider}} está indisponível: {{message}}",
+  "ready": "Pronto",
+  "redirecting": "Redirecionando…",
+  "setup_required": "Configurar",
+  "sign_up_with": "Criar conta com",
+  "unable_to_sign_in": "Não foi possível entrar",
+  "or_continue_with": "Ou continuar com"
+}

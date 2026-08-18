@@ -1,0 +1,16 @@
+{
+  "attachments": "{{count}} Anhang(s)",
+  "cancel": "Abbrechen",
+  "create": "Erstellen ein Entwurf",
+  "delete": "Löschen",
+  "delete_description": "Dies Entwurf’s lokal Daten und Anhänge wird sein deleted.",
+  "delete_title": "Löschen dies Entwurf?",
+  "description": "Jede neuer Tag ist automatisch gespeichert until it ist published zu der Tagebuch.",
+  "empty_description": "Start ein Tag und Ihr changes wird sein gespeichert here automatisch.",
+  "empty_summary": "Keine Zusammenfassung has been entered yet.",
+  "empty_title": "Keine Entwürfe in Fortschritt",
+  "new": "Neuer Tag",
+  "resume": "Resume",
+  "title": "Entwürfe",
+  "untitled": "Untitled Tag"
+}

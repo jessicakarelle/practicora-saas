@@ -1,0 +1,19 @@
+{
+  "cards_visible_notice": "تبقى خدمات تسجيل الدخول غير المهيأة ظاهرة مع توضيح الإجراء المطلوب.",
+  "close": "إغلاق",
+  "configuration_required": "يلزم الإعداد",
+  "configuration_required_description": "يجب تفعيل تسجيل الدخول عبر {{provider}} أولًا في Supabase وفي إعداد Practicora العام.",
+  "continue_with": "المتابعة باستخدام",
+  "or_with_your_email": "أو المتابعة باستخدام",
+  "provider_apple": "Apple",
+  "provider_azure": "Microsoft",
+  "provider_github": "GitHub",
+  "provider_google": "Google",
+  "provider_not_enabled": "خدمة {{provider}} غير متاحة: {{message}}",
+  "ready": "جاهز",
+  "redirecting": "جارٍ التحويل…",
+  "setup_required": "إعداد",
+  "sign_up_with": "إنشاء حساب باستخدام",
+  "unable_to_sign_in": "تعذر تسجيل الدخول",
+  "or_continue_with": "أو المتابعة باستخدام"
+}

@@ -1,0 +1,22 @@
+{
+  "contact_terms": "Questions relatives à cette base produit : {{email}}.",
+  "last_updated_july_16_2026": "Dernière mise à jour : 16 juillet 2026",
+  "local_mode_depends_on_browser_storage_users_should_keep_regular_exports_when_dat": "Le mode local dépend du stockage du navigateur. L’utilisateur doit conserver des exports réguliers lorsqu’une perte de données aurait des conséquences importantes. Aucune garantie de récupération ne peut être donnée pour des données locales effacées par le navigateur ou l’appareil.",
+  "practicora_provides_tools_to_document_internships_calculate_hours_organize_goals": "Practicora fournit des outils pour documenter un stage, calculer des heures, organiser des objectifs, analyser une progression et produire des exports. L’application ne remplace pas les systèmes officiels de présence, de paie, d’évaluation ou de conformité d’un établissement ou d’un employeur.",
+  "terms": "Conditions",
+  "text_1_purpose_of_the_service": "1. Objet du service",
+  "text_2_accuracy_of_information": "2. Exactitude des informations",
+  "text_3_professional_confidentiality": "3. Confidentialité professionnelle",
+  "text_4_accounts_and_security": "4. Comptes et sécurité",
+  "text_5_backups": "5. Sauvegardes",
+  "text_6_availability_and_evolution": "6. Disponibilité et évolution",
+  "text_7_contact": "7. Contact",
+  "the_foundation_may_evolve_be_interrupted_or_change_functionality_during_developm": "La base peut évoluer, être interrompue ou modifier ses fonctions pendant la phase de développement et de bêta. Les fonctionnalités futures présentées sur la page Tarifs ne constituent pas un engagement de disponibilité ou de prix.",
+  "these_terms_describe_the_current_demonstration_foundation_legal_review_for_the_o": "Ces conditions décrivent la base de démonstration actuelle. Une révision juridique adaptée au pays d’exploitation et au modèle commercial sera nécessaire avant un lancement SaaS public.",
+  "use_practicora_responsibly_and_in_accordance_with_your_workplace": "Utiliser Practicora de manière responsable et conforme à votre milieu.",
+  "users_must_follow_the_policies_of_their_institution_and_internship_workplace_pra": "L’utilisateur doit respecter les politiques de son établissement et de son milieu de stage. Il est interdit d’utiliser Practicora pour conserver ou partager des secrets, identifiants, données clients ou contenus que l’utilisateur n’est pas autorisé à traiter.",
+  "users_remain_responsible_for_the_accuracy_of_dates_hours_descriptions_and_report": "L’utilisateur demeure responsable de l’exactitude des dates, heures, descriptions et rapports saisis. Les calculs et graphiques dépendent des données fournies et doivent être vérifiés avant une remise officielle.",
+  "when_a_cloud_account_is_enabled_users_must_protect_their_password_verify_their_e": "Lorsqu’un compte cloud est activé, l’utilisateur doit protéger son mot de passe, vérifier son courriel et signaler toute utilisation non autorisée. Le code PIN local protège seulement l’affichage de certaines pages sur l’appareil; il ne remplace pas la sécurité du système d’exploitation ou du compte Supabase.",
+  "metadata_title": "Conditions d’utilisation",
+  "metadata_description": "Conditions d’utilisation de Practicora pour le suivi, la sauvegarde et l’export de données de stage."
+}

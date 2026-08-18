@@ -1,0 +1,9 @@
+{
+  "cancel": "Annullare",
+  "close": "Chiudere",
+  "confirm_action": "Confermare azione",
+  "okay": "OK",
+  "reason_label": "Detailed motivo",
+  "reason_minimum": "Il motivo deve contain at least 10 characters.",
+  "reason_placeholder": "Explain questo decision precisely…"
+}

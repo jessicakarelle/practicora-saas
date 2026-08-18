@@ -1,0 +1,23 @@
+{
+  "cancel": "Annullare",
+  "code": "Code",
+  "computer_science_technology": "Computer Science Technology",
+  "create": "Creare",
+  "create_program": "Creare programma",
+  "create_the_first_program_to_define_requirements_and_attach_cohorts": "Creare il primo programma a define requirements e attach coorti.",
+  "creating": "Creating…",
+  "define_shared_requirements_minimum_hours_and_the_tracking_structure_for_cohorts": "Define shared requirements, minimo ore e il tracking structure per coorti.",
+  "description": "Descrizione",
+  "goals_requirements_and_program_context": "Obiettivi, requirements e programma context…",
+  "new_program": "Nuovo programma",
+  "no_code": "Nessun code",
+  "no_description": "Nessun descrizione.",
+  "no_programs": "Nessun programmi",
+  "program_created": "Programma created.",
+  "program_name": "Programma nome",
+  "programs": "Programmi",
+  "required_hours": "obbligatorio ore",
+  "required_hours_2": "Obbligatorio ore",
+  "these_settings_can_later_be_reused_across_multiple_cohorts": "These impostazioni può later essere reused across multiple coorti.",
+  "program_code_placeholder": "420.B0"
+}

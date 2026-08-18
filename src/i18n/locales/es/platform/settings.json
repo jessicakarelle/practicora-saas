@@ -1,0 +1,23 @@
+{
+  "billing_mode": "Facturación enforcement mode",
+  "billing_section": "Facturación",
+  "currency": "Primary moneda",
+  "data_section": "Datos y retención",
+  "days": "días",
+  "deletion_grace": "Deletion grace período",
+  "description": "Global seguridad, facturación, retención y SaaS behavior configuración.",
+  "enforce": "Enforce limits",
+  "export_expiry": "Exportar expiry",
+  "manual": "Manual",
+  "minutes": "minutes",
+  "observe": "Observe sin blocking",
+  "provider": "Pago provider",
+  "read_only": "Read solo",
+  "save_error": "No se puede a guardar configuración.",
+  "saved": "Configuración guardado.",
+  "saved_automatically": "Changes se ser guardado automáticamente when el configuración connector es activado.",
+  "security_section": "Seguridad",
+  "stripe": "Stripe",
+  "support_duration": "Predeterminado soporte sesión duration",
+  "title": "Plataforma configuración"
+}

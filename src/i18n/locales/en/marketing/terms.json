@@ -1,0 +1,22 @@
+{
+  "contact_terms": "Questions about this product foundation: {{email}}.",
+  "last_updated_july_16_2026": "Last updated: July 16, 2026",
+  "local_mode_depends_on_browser_storage_users_should_keep_regular_exports_when_dat": "Local mode depends on browser storage. Users should keep regular exports when data loss would have significant consequences. Recovery cannot be guaranteed for local data removed by the browser or device.",
+  "practicora_provides_tools_to_document_internships_calculate_hours_organize_goals": "Practicora provides tools to document internships, calculate hours, organize goals, analyze progress and produce exports. The app does not replace official attendance, payroll, assessment or compliance systems used by an institution or employer.",
+  "terms": "Terms",
+  "text_1_purpose_of_the_service": "1. Purpose of the service",
+  "text_2_accuracy_of_information": "2. Accuracy of information",
+  "text_3_professional_confidentiality": "3. Professional confidentiality",
+  "text_4_accounts_and_security": "4. Accounts and security",
+  "text_5_backups": "5. Backups",
+  "text_6_availability_and_evolution": "6. Availability and evolution",
+  "text_7_contact": "7. Contact",
+  "the_foundation_may_evolve_be_interrupted_or_change_functionality_during_developm": "The foundation may evolve, be interrupted or change functionality during development and beta. Future features shown on the Pricing page are not a commitment to availability or price.",
+  "these_terms_describe_the_current_demonstration_foundation_legal_review_for_the_o": "These terms describe the current demonstration foundation. Legal review for the operating jurisdiction and business model is required before public SaaS launch.",
+  "use_practicora_responsibly_and_in_accordance_with_your_workplace": "Use Practicora responsibly and in accordance with your workplace.",
+  "users_must_follow_the_policies_of_their_institution_and_internship_workplace_pra": "Users must follow the policies of their institution and internship workplace. Practicora must not be used to store or share secrets, credentials, customer data or content the user is not authorized to process.",
+  "users_remain_responsible_for_the_accuracy_of_dates_hours_descriptions_and_report": "Users remain responsible for the accuracy of dates, hours, descriptions and reports. Calculations and charts depend on supplied data and must be reviewed before official submission.",
+  "when_a_cloud_account_is_enabled_users_must_protect_their_password_verify_their_e": "When a cloud account is enabled, users must protect their password, verify their email and report unauthorized use. The local PIN only protects the display of selected pages on the device; it does not replace operating-system or Supabase account security.",
+  "metadata_title": "Terms of use",
+  "metadata_description": "Practicora terms for tracking, storing and exporting internship data."
+}

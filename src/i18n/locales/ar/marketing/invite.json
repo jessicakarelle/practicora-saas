@@ -1,0 +1,11 @@
+{
+  "accept_invitation": "Accept invitation",
+  "back_to_workspaces": "Back إلى مساحات العمل",
+  "create_account": "إنشاء حساب",
+  "institutional_invitation": "مؤسسي invitation",
+  "sign_in_to_continue": "تسجيل الدخول إلى متابعة",
+  "signed_in_account": "Signed-in الحساب",
+  "supabase_must_be_configured_to_accept_an_institutional_invitation": "Supabase يجب يكون مُعد إلى accept مؤسسي invitation.",
+  "this_invitation_already_contains_the_organization_role_and_intended_assignments_": "هذا invitation already contains ال المؤسسة, الدور و intended assignments. الخاص بك الحساب cannot modify those rights itself.",
+  "your_membership_and_role_were_added_practicora_will_now_open_the_correct_dashboa": "الخاص بك membership و الدور were added. Practicora سوف now فتح ال correct لوحة التحكم."
+}

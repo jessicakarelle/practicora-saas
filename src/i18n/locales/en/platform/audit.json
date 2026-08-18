@@ -1,0 +1,13 @@
+{
+  "action": "Action",
+  "actor": "Actor",
+  "date": "Date",
+  "description": "Review every sensitive decision made from the Control Center.",
+  "empty": "No audit event.",
+  "metadata": "Metadata",
+  "reason": "Reason",
+  "system": "System",
+  "target": "Target",
+  "title": "Global audit",
+  "unknown_actor": "Unknown actor"
+}

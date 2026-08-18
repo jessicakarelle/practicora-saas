@@ -1,0 +1,13 @@
+{
+  "action": "Aktion",
+  "actor": "Actor",
+  "date": "Datum",
+  "description": "Prüfen jede sensibel decision made von der Kontrolle Center.",
+  "empty": "Keine Prüfung event.",
+  "metadata": "Metadata",
+  "reason": "Grund",
+  "system": "System",
+  "target": "Target",
+  "title": "Global Prüfung",
+  "unknown_actor": "Unknown actor"
+}

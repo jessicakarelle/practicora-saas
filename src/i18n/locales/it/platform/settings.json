@@ -1,0 +1,23 @@
+{
+  "billing_mode": "Fatturazione enforcement mode",
+  "billing_section": "Fatturazione",
+  "currency": "Primary valuta",
+  "data_section": "Dati e conservazione",
+  "days": "giorni",
+  "deletion_grace": "Deletion grace periodo",
+  "description": "Globale sicurezza, fatturazione, conservazione e SaaS behavior impostazioni.",
+  "enforce": "Enforce limits",
+  "export_expiry": "Esportare expiry",
+  "manual": "Manual",
+  "minutes": "minutes",
+  "observe": "Observe senza blocking",
+  "provider": "Pagamento provider",
+  "read_only": "Read solo",
+  "save_error": "Impossibile a salvare configurazione.",
+  "saved": "Configurazione salvato.",
+  "saved_automatically": "Changes verrà essere salvato automaticamente when il configurazione connector è attivato.",
+  "security_section": "Sicurezza",
+  "stripe": "Stripe",
+  "support_duration": "Predefinito supporto sessione duration",
+  "title": "Piattaforma configurazione"
+}

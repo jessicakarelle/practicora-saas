@@ -1,0 +1,20 @@
+{
+  "admin_description": "Administration générale sans pouvoir retirer la dernière direction de plateforme.",
+  "admin_name": "Administration de plateforme",
+  "auditor_description": "Accès en lecture aux contrôles, événements, risques et décisions sensibles.",
+  "auditor_name": "Audit de plateforme",
+  "finance_description": "Gestion des plans, prix, abonnements, quotas et indicateurs commerciaux.",
+  "finance_name": "Finance et abonnements",
+  "operations_description": "Gestion des institutions, utilisateurs, assistance et opérations de données.",
+  "operations_name": "Opérations de plateforme",
+  "owner_description": "Contrôle complet de Practicora, protection du dernier propriétaire et accès aux décisions critiques.",
+  "owner_name": "Direction de plateforme",
+  "platform_admin": "Administration de plateforme",
+  "platform_auditor": "Audit de plateforme",
+  "platform_finance": "Finance et abonnements",
+  "platform_operations": "Opérations de plateforme",
+  "platform_owner": "Direction de plateforme",
+  "platform_support": "Assistance de plateforme",
+  "support_description": "Diagnostic des comptes et sessions d’assistance temporaires entièrement auditées.",
+  "support_name": "Assistance de plateforme"
+}

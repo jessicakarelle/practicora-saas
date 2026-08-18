@@ -1,0 +1,20 @@
+{
+  "account_gate": "عالمي الحساب gate",
+  "account_gate_description": "suspension هو enforced بواسطة restrictive RLS policy across application البيانات.",
+  "account_status": "الخاص بك حالة الحساب",
+  "critical_permissions": "حرج الصلاحيات",
+  "critical_permissions_description": "Suspensions, الأدوار, publishing, الدعم, و البيانات الإجراءات require dedicated الصلاحية و generate التدقيق event.",
+  "database_enforcement": "PostgreSQL-level enforcement",
+  "description": "Monitor suspended accounts, حرج الصلاحيات و temporary الدعم الجلسات.",
+  "last_owner": "Last-owner الحماية",
+  "last_owner_description": "ال الأخير مدير المنصة الدور cannot يكون removed.",
+  "permissions_count": "{{count}} نشط الصلاحيات",
+  "recommendation": "Use service_الدور فقط inside server functions و require reauthentication لـ ال most حساس الإجراءات.",
+  "rls_enabled": "Restrictive RLS policies",
+  "roles_count": "{{count}} المنصة الأدوار",
+  "service_role": "Server-side privileged keys",
+  "service_role_description": "Administrative Auth العمليات يجب remain في secured server function.",
+  "support_sessions": "Controlled الدعم الجلسات",
+  "support_sessions_description": "الوصول إلى private البيانات requires السبب, الوقت limit و إكمال التدقيق trail.",
+  "title": "المنصة الأمان"
+}

@@ -1,0 +1,12 @@
+{
+  "access_temporarily_blocked": "الوصول temporarily blocked",
+  "back_to_dashboard": "Back إلى لوحة التحكم",
+  "checking": "Checking…",
+  "delete_one_digit": "حذف one digit",
+  "enter_your_pin_validation_is_automatic": "Enter الخاص بك PIN. Validation هو تلقائي.",
+  "entered_pin": "Entered PIN",
+  "incorrect_code_attempts_remaining": "Incorrect code. {{count}} attempt(s) remaining.",
+  "protected_page": "Protected الصفحة",
+  "too_many_attempts_access_blocked_for_5_minutes": "Too many attempts. الوصول blocked لـ 5 minutes.",
+  "workspace_unlocked": "مساحة العمل unlocked."
+}

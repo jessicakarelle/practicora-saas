@@ -1,0 +1,15 @@
+{
+  "workspace_title": "الخاص بك مساحة العمل at glance",
+  "workspace_description": "Start مع ال لوحة التحكم إلى see التقدم, priorities و ال التالي useful الإجراء.",
+  "journal_title": "Document workday",
+  "journal_description": "إضافة context, الساعات, التعلم, المهام و الأدلة. Autosave protects كل change.",
+  "analytics_title": "Understand الخاص بك التقدم",
+  "analytics_description": "Use التاريخ, الفئة و work-mode عوامل التصفية إلى turn الخاص بك السجل into مسح trends.",
+  "reports_title": "Build مهني التقرير",
+  "reports_description": "Choose concise, standard أو إكمال level so ال التقرير stays relevant و readable.",
+  "step": "Step {{current}} من {{total}}",
+  "close": "إغلاق ال guide",
+  "skip": "Skip لـ now",
+  "next": "التالي",
+  "start": "فتح هذا الصفحة"
+}

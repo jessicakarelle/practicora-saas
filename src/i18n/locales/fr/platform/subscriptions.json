@@ -1,0 +1,18 @@
+{
+  "cancelled": "Annulé",
+  "custom": "sur mesure",
+  "description": "Suivez les abonnements personnels et institutionnels, leur plan, période et état de paiement.",
+  "empty": "Aucun abonnement pour le moment.",
+  "institution": "Institution",
+  "monthly": "mensuel",
+  "owner": "Client",
+  "past_due": "En retard",
+  "personal": "Personnel",
+  "plan": "Plan",
+  "price": "Prix",
+  "renewal": "Fin de période",
+  "status": "Statut",
+  "title": "Abonnements",
+  "trialing": "Essai",
+  "yearly": "annuel"
+}

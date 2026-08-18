@@ -1,0 +1,21 @@
+{
+  "at_risk_placements": "At-risk التعيينات",
+  "average_completion": "المتوسط completion",
+  "completion": "Completion",
+  "distribution_of_drafts_submissions_changes_and_approvals": "Distribution من المسودات, submissions, changes و approvals.",
+  "hours_completion": "الساعات completion",
+  "institution_analytics": "المؤسسة التحليلات",
+  "no_placements_to_analyze": "لا التعيينات إلى analyze.",
+  "no_reports_to_analyze": "لا التقارير إلى analyze.",
+  "percentage_of_required_placement_hours": "Percentage من مطلوب التعيين الساعات.",
+  "report_statuses": "التقرير statuses",
+  "reports_to_process": "التقارير إلى process",
+  "students": "الطلاب",
+  "turn_hours_submissions_and_approvals_into_progress_indicators_without_exposing_o": "Turn الساعات, submissions و approvals into التقدم indicators بدون exposing one الطالب’s البيانات إلى another.",
+  "filters": "التحليلات عوامل التصفية",
+  "filtered_summary": "{{placements}} التعيينات و {{reports}} التقارير",
+  "clear_filters": "مسح عوامل التصفية",
+  "search_placeholder": "بحث الطالب, الشركة أو المشرف…",
+  "all_placement_statuses": "الكل التعيين statuses",
+  "all_report_statuses": "الكل التقرير statuses"
+}

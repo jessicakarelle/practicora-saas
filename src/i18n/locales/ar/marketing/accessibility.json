@@ -1,0 +1,15 @@
+{
+  "metadata_title": "Accessibility | Practicora",
+  "metadata_description": "Accessibility direction لـ navigation, forms, motion و responsive layouts.",
+  "eyebrow": "Accessibility",
+  "title": "product أن remains usable في real conditions",
+  "description": "Practicora aims لـ keyboard الوصول, readable contrast, responsive layouts و motion أن respects المستخدم preferences.",
+  "section_1_title": "Keyboard و التركيز",
+  "section_1_description": "Interactive controls use visible التركيز states و predictable tab order.",
+  "section_2_title": "Responsive information",
+  "section_2_description": "Dense views reorganize لـ smaller screens instead من hiding essential الإجراءات.",
+  "section_3_title": "Motion preferences",
+  "section_3_description": "Reduced-motion preferences limit decorative movement while preserving useful state changes.",
+  "section_4_title": "Continuous مراجعة",
+  "section_4_description": "Accessibility هو treated as ongoing product work و should يكون tested مع real المستخدمون و assistive technologies."
+}

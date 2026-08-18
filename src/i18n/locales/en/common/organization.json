@@ -1,0 +1,16 @@
+{
+  "open_workspaces": "Open workspaces",
+  "organization_fallback": "Organization",
+  "personal_workspace": "Personal workspace",
+  "platform_access_required": "Platform access required",
+  "platform_access_required_description": "This page is reserved for authorized Practicora Control Center members. Switch workspaces or request a platform permission.",
+  "platform_workspace": "Practicora Control Center",
+  "platform_workspace_description": "Platform-wide oversight of Practicora institutions, users, plans, security, and data.",
+  "role_admin": "Administrator",
+  "role_owner": "Owner",
+  "role_program_manager": "Program manager",
+  "role_student": "Student",
+  "role_supervisor": "Supervisor",
+  "role_teacher": "Teacher",
+  "demo_institution_name": "Practicora Demo Institute"
+}

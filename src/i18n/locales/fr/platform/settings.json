@@ -1,0 +1,23 @@
+{
+  "billing_mode": "Mode d’application de la facturation",
+  "billing_section": "Facturation",
+  "currency": "Devise principale",
+  "data_section": "Données et conservation",
+  "days": "jours",
+  "deletion_grace": "Délai avant suppression définitive",
+  "description": "Paramètres globaux de sécurité, facturation, conservation et comportement du SaaS.",
+  "enforce": "Appliquer les limites",
+  "export_expiry": "Expiration des exports",
+  "manual": "Manuel",
+  "minutes": "minutes",
+  "observe": "Observer sans bloquer",
+  "provider": "Fournisseur de paiement",
+  "read_only": "Lecture seule",
+  "save_error": "Impossible d’enregistrer la configuration.",
+  "saved": "Configuration enregistrée.",
+  "saved_automatically": "Les changements seront sauvegardés automatiquement lorsque le connecteur de configuration sera activé.",
+  "security_section": "Sécurité",
+  "stripe": "Stripe",
+  "support_duration": "Durée par défaut d’une session d’assistance",
+  "title": "Configuration de plateforme"
+}

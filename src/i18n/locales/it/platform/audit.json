@@ -1,0 +1,13 @@
+{
+  "action": "Azione",
+  "actor": "Actor",
+  "date": "Data",
+  "description": "Revisionare ogni sensibile decision made da il Controllo Center.",
+  "empty": "Nessun audit event.",
+  "metadata": "Metadata",
+  "reason": "Motivo",
+  "system": "System",
+  "target": "Target",
+  "title": "Globale audit",
+  "unknown_actor": "Unknown actor"
+}

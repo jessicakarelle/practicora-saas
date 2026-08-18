@@ -1,0 +1,18 @@
+{
+  "cancelled": "Cancelado",
+  "custom": "personalizado",
+  "description": "Track pessoal e institucional assinaturas, plano, período e pagamento status.",
+  "empty": "Sem assinaturas yet.",
+  "institution": "Instituição",
+  "monthly": "monthly",
+  "owner": "Customer",
+  "past_due": "Past due",
+  "personal": "Pessoal",
+  "plan": "Plano",
+  "price": "Price",
+  "renewal": "Período end",
+  "status": "Status",
+  "title": "Assinaturas",
+  "trialing": "Trial",
+  "yearly": "yearly"
+}

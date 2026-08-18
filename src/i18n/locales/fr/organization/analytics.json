@@ -1,0 +1,21 @@
+{
+  "at_risk_placements": "Stages à risque",
+  "average_completion": "Progression moyenne",
+  "completion": "Progression",
+  "distribution_of_drafts_submissions_changes_and_approvals": "Distribution des brouillons, soumissions, corrections et approbations.",
+  "hours_completion": "Progression des heures",
+  "institution_analytics": "Analytique institutionnelle",
+  "no_placements_to_analyze": "Aucun stage à analyser.",
+  "no_reports_to_analyze": "Aucun rapport à analyser.",
+  "percentage_of_required_placement_hours": "Pourcentage des heures requises par stage.",
+  "report_statuses": "Statuts des rapports",
+  "reports_to_process": "Rapports à traiter",
+  "students": "Étudiants",
+  "turn_hours_submissions_and_approvals_into_progress_indicators_without_exposing_o": "Transformez les heures, soumissions et validations en indicateurs de progression sans exposer les données d’un étudiant à un autre.",
+  "filters": "Filtres analytiques",
+  "filtered_summary": "{{placements}} stages et {{reports}} rapports",
+  "clear_filters": "Effacer les filtres",
+  "search_placeholder": "Rechercher un étudiant, une entreprise ou un superviseur…",
+  "all_placement_statuses": "Tous les états de stage",
+  "all_report_statuses": "Tous les états de rapport"
+}

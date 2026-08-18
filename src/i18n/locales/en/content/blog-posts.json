@@ -1,0 +1,274 @@
+[
+  {
+    "slug": "comment-rediger-un-journal-de-stage-professionnel",
+    "publishedAt": "2026-07-01",
+    "updatedAt": "2026-07-16",
+    "readingMinutes": 10,
+    "title": "How to write a professional internship journal that is genuinely useful",
+    "description": "A complete method to document your days, demonstrate progress and prepare a strong internship report without rebuilding everything at the end.",
+    "category": "Methodology",
+    "sections": [
+      {
+        "heading": "What is an internship journal really for?",
+        "paragraphs": [
+          "An internship journal is more than proof of attendance. It preserves a reliable record of completed work, decisions, challenges and learning in a professional context.",
+          "When updated consistently, it becomes a source for your final report, supervisor meetings, portfolio and future interviews. You no longer need to rely on incomplete memories weeks after the work happened."
+        ]
+      },
+      {
+        "heading": "Describe a contribution, not just an activity",
+        "paragraphs": [
+          "A sentence such as “worked on the website” is too vague. It does not explain the context, your responsibility or the outcome. A professional entry states what needed improvement, what you did, the constraints and what changed because of your contribution.",
+          "A dependable structure answers four questions: what did you complete, why did it matter, how did you approach it and what did you learn?"
+        ],
+        "bullets": [
+          "Context: the problem, request or objective",
+          "Action: your responsibility and method",
+          "Outcome: deliverable, decision, correction or visible progress",
+          "Learning: skill, concept or professional behavior developed"
+        ]
+      },
+      {
+        "heading": "Use a repeatable structure without writing an essay",
+        "paragraphs": [
+          "Consistency matters more than length. A stable structure reduces writing effort and makes days comparable. A few precise paragraphs are more useful than one long, disorganized description.",
+          "Separate completed work, learning, challenges, next steps and evidence. This makes filtering and future summaries much more reliable."
+        ],
+        "bullets": [
+          "Start, end and break times",
+          "Project, work category and work mode",
+          "Completed work and outcomes",
+          "Blockers, feedback and next step",
+          "Tasks, skills, technologies and evidence links"
+        ]
+      },
+      {
+        "heading": "Document challenges with maturity",
+        "paragraphs": [
+          "A challenge does not make you less competent. When explained well, it demonstrates analysis, autonomy and the way you seek help. Avoid blaming language; describe facts and your response.",
+          "For example, explain that you encountered an incompatibility, reviewed documentation, reproduced the issue, compared options and requested validation before applying the fix."
+        ]
+      },
+      {
+        "heading": "Turn entries into evidence for reports and portfolios",
+        "paragraphs": [
+          "At the end of the internship, group entries by project, skill or goal. Measurable outcomes, technical decisions, feedback and deliverables are especially valuable for a credible report.",
+          "For a portfolio, remove confidential information and focus on your role, reasoning and impact. A strong journal lets you describe your contribution accurately without claiming the entire team’s work."
+        ],
+        "bullets": [
+          "Measured outcomes or observable changes",
+          "Before-and-after improvements",
+          "Technical decisions and trade-offs",
+          "Skills demonstrated through concrete examples",
+          "Feedback received and improvements made"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "suivre-ses-heures-de-stage-sans-erreur",
+    "publishedAt": "2026-06-20",
+    "updatedAt": "2026-07-15",
+    "readingMinutes": 8,
+    "title": "Track internship hours accurately without last-minute reconstruction",
+    "description": "Rules, calculations and habits that prevent discrepancies between your journal, timesheets and final report.",
+    "category": "Organization",
+    "sections": [
+      {
+        "heading": "Enter hours on the same day",
+        "paragraphs": [
+          "The longer you wait, the more likely you are to forget a break, early departure, late meeting or remote workday. Daily entry takes little time and protects data quality.",
+          "Ideally, complete the entry before leaving work or later the same evening. Automatic drafts let you begin during the day and finish without losing work."
+        ]
+      },
+      {
+        "heading": "Use one consistent calculation method",
+        "paragraphs": [
+          "Always use the same fields: start time, end time and break duration. Totals should be calculated automatically to reduce conversion errors between decimal hours and hours/minutes.",
+          "For example, 7 hours 30 minutes equals 7.5 decimal hours. This matters for progress, compensation and weekly averages."
+        ]
+      },
+      {
+        "heading": "Separate attendance, documented work and targets",
+        "paragraphs": [
+          "A total number of hours does not explain internship quality by itself. Connect every day to actual work, tasks and learning so the total is backed by a coherent history.",
+          "Compare logged hours with the overall and weekly targets. An early discrepancy is easy to correct; one discovered the day before a final report is much harder to explain."
+        ],
+        "bullets": [
+          "Internship total and progress percentage",
+          "Weekly total and difference from target",
+          "Missing or incomplete days",
+          "Unusual hours that need review"
+        ]
+      },
+      {
+        "heading": "Review exceptional periods",
+        "paragraphs": [
+          "Holidays, appointments, training, travel and overtime must follow the rules of your school and employer. Do not assume they are all counted the same way.",
+          "Add a short note whenever a day differs from the normal schedule. This saves time later."
+        ]
+      },
+      {
+        "heading": "Prepare a verifiable record",
+        "paragraphs": [
+          "Before submitting a report, export a date-based record with start, end, break and total. Check duplicates, impossible dates and missing periods.",
+          "Keep a JSON or CSV backup as well. It lets you restore the data and explain your calculation method when needed."
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "transformer-son-stage-en-portfolio",
+    "publishedAt": "2026-06-10",
+    "updatedAt": "2026-07-14",
+    "readingMinutes": 10,
+    "title": "Turn your internship into a professional portfolio without exposing confidential information",
+    "description": "How to select the right projects, learning and outcomes to strengthen your portfolio and future applications.",
+    "category": "Career",
+    "sections": [
+      {
+        "heading": "Identify demonstrable contributions",
+        "paragraphs": [
+          "A credible portfolio presents your exact role, project constraints and observable outcomes. Do not claim the entire team’s work; show your contribution, decisions and learning.",
+          "The strongest examples are not always the most spectacular. A difficult fix, accessibility improvement, test automation or clear documentation can demonstrate significant maturity."
+        ]
+      },
+      {
+        "heading": "Create an evidence brief for each project",
+        "paragraphs": [
+          "Keep a structured brief for every important project. It will help you write a coherent case study and answer interview questions."
+        ],
+        "bullets": [
+          "Context and problem",
+          "Your role and level of autonomy",
+          "Technical, human or time constraints",
+          "Selected approach and alternatives",
+          "Outcome, learning and future improvement"
+        ]
+      },
+      {
+        "heading": "Connect tasks to skills",
+        "paragraphs": [
+          "One contribution can demonstrate architecture, quality, communication, accessibility, analysis, prioritization or collaboration. Use precise examples instead of a generic technology list.",
+          "Rather than writing only “React,” explain how you structured components, managed state, improved responsive behavior or reduced regressions."
+        ]
+      },
+      {
+        "heading": "Protect company information",
+        "paragraphs": [
+          "Never publish credentials, customer data, internal screenshots, private URLs, technical secrets or confidential code. Ask permission before showing anything owned by the company.",
+          "You can often anonymize the context, rebuild a mockup with synthetic data and explain your reasoning without exposing the real product."
+        ]
+      },
+      {
+        "heading": "Prepare a clear interview story",
+        "paragraphs": [
+          "A case study should be summarized in a few minutes: situation, responsibility, actions, result and reflection. Your journal provides the details required to stay accurate without memorizing a script.",
+          "End with what you would do differently today. That reflection demonstrates genuine growth."
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "preparer-un-rapport-de-stage-structure",
+    "publishedAt": "2026-07-08",
+    "updatedAt": "2026-07-16",
+    "readingMinutes": 11,
+    "title": "Prepare a structured internship report from reliable data",
+    "description": "A process for turning a daily journal into a clear, evidence-based report supported by concrete examples.",
+    "category": "Reports",
+    "sections": [
+      {
+        "heading": "Start with official requirements",
+        "paragraphs": [
+          "Before writing, review the grading rubric, required structure, expected length and confidentiality rules. A strong report first satisfies your program’s requirements.",
+          "Create a checklist and connect each requirement to available journal data: projects, hours, skills, challenges, goals and feedback."
+        ]
+      },
+      {
+        "heading": "Build a central narrative",
+        "paragraphs": [
+          "A report is not a chronological copy of every day. Choose a central narrative, such as growing autonomy, learning a professional process or delivering an important project.",
+          "Daily entries then provide evidence for that narrative."
+        ]
+      },
+      {
+        "heading": "Select representative examples",
+        "paragraphs": [
+          "Choose a few situations that demonstrate different skills. For each one, explain context, action, result and learning. Avoid accumulating details without analysis."
+        ],
+        "bullets": [
+          "An important project or deliverable",
+          "A challenge solved methodically",
+          "Feedback that led to an improvement",
+          "Growth in collaboration or communication",
+          "A skill performed with greater autonomy"
+        ]
+      },
+      {
+        "heading": "Support conclusions with data",
+        "paragraphs": [
+          "Data does not replace analysis, but it strengthens it. Use hours, goal progress, skill frequency or work-category distribution to demonstrate real trends.",
+          "Always explain what a chart or number means. A visual without interpretation remains decorative."
+        ]
+      },
+      {
+        "heading": "Review credibility and confidentiality",
+        "paragraphs": [
+          "Make sure every important claim can be supported by an entry, approved evidence or a precise observation. Remove sensitive information and replace real names where necessary.",
+          "Finish with language revision, date checks and a comparison with your hour record. This prevents contradictions between sections."
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "objectifs-smart-stage-competences",
+    "publishedAt": "2026-07-11",
+    "updatedAt": "2026-07-16",
+    "readingMinutes": 9,
+    "title": "Set measurable internship goals and track developed skills",
+    "description": "How to turn vague intentions into observable goals and connect daily work to evidence of progress.",
+    "category": "Progress",
+    "sections": [
+      {
+        "heading": "Avoid goals that are too general",
+        "paragraphs": [
+          "“Become better at programming” or “improve communication” are useful intentions, but they do not define when progress has been achieved. An internship goal should describe an observable outcome.",
+          "Specify the context, expected action, level of autonomy and evidence that will confirm progress."
+        ]
+      },
+      {
+        "heading": "Use measurable wording",
+        "paragraphs": [
+          "A strong goal can include a deadline, frequency, deliverable or quality criterion. It must remain realistic for the internship duration and assigned responsibilities."
+        ],
+        "bullets": [
+          "Deliver a complete feature with code review",
+          "Present a clear weekly update for four weeks",
+          "Reduce a type of defect through a testing procedure",
+          "Document a process another team member can follow"
+        ]
+      },
+      {
+        "heading": "Break goals into intermediate progress",
+        "paragraphs": [
+          "A progress percentage should not be arbitrary. Define stages: observation, guided execution, autonomous execution, validation and improvement. Update progress based on real events."
+        ]
+      },
+      {
+        "heading": "Connect daily entries to skills",
+        "paragraphs": [
+          "Add the skills and technologies actually used in each entry. Over time, the frequency and variety of examples demonstrate progress better than a single final self-assessment.",
+          "Include a sentence explaining how the skill was used. Context turns a label into evidence."
+        ]
+      },
+      {
+        "heading": "Review regularly",
+        "paragraphs": [
+          "A short weekly review is enough to check goals, adjust priorities and identify a skill that has received little attention. This helps you discuss progress with a supervisor using concrete information.",
+          "At the end of the internship, you will have a history showing not only what you can do, but how that ability developed."
+        ]
+      }
+    ]
+  }
+]

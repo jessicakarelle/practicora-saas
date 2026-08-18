@@ -1,0 +1,8 @@
+{
+  "audit_log": "Registro de auditoria",
+  "en_ca": "en-CA",
+  "keep_a_record_of_invitations_role_changes_approvals_exports_and_administrative_a": "Keep um record de invitations, função changes, approvals, exports e administrative ações.",
+  "no_audit_events": "Sem auditoria events",
+  "search_action": "Pesquisar ação…",
+  "sensitive_actions_will_appear_here_after_the_institutional_schema_is_configured": "Sensível ações será appear here após o institucional schema é configurado."
+}

@@ -1,0 +1,8 @@
+{
+  "audit_log": "Prüfprotokoll",
+  "en_ca": "en-CA",
+  "keep_a_record_of_invitations_role_changes_approvals_exports_and_administrative_a": "Keep ein record von invitations, Rolle changes, approvals, exports und administrative Aktionen.",
+  "no_audit_events": "Keine Prüfung events",
+  "search_action": "Suchen Aktion…",
+  "sensitive_actions_will_appear_here_after_the_institutional_schema_is_configured": "Sensibel Aktionen wird appear here nach der institutionell schema ist konfiguriert."
+}

@@ -1,0 +1,12 @@
+{
+  "advanced_reports_description": "Report studio, exports and review workflows.",
+  "advanced_reports_name": "Advanced reports",
+  "billing_enforcement_description": "Blocks features when entitlements or quotas are exceeded.",
+  "billing_enforcement_name": "Billing enforcement",
+  "institutional_core_description": "Organizations, roles, cohorts, placements and approvals.",
+  "institutional_core_name": "Institutional core",
+  "social_auth_description": "Google, GitHub, Microsoft and Apple through Supabase Auth.",
+  "social_auth_name": "Social authentication",
+  "support_sessions_description": "Temporary, justified and audited access to targeted data.",
+  "support_sessions_name": "Support sessions"
+}

@@ -1,0 +1,8 @@
+{
+  "audit_log": "Audit log",
+  "en_ca": "en-CA",
+  "keep_a_record_of_invitations_role_changes_approvals_exports_and_administrative_a": "Keep a record of invitations, role changes, approvals, exports and administrative actions.",
+  "no_audit_events": "No audit events",
+  "search_action": "Search action…",
+  "sensitive_actions_will_appear_here_after_the_institutional_schema_is_configured": "Sensitive actions will appear here after the institutional schema is configured."
+}

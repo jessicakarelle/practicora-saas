@@ -1,0 +1,15 @@
+{
+  "workspace_title": "Your workspace at a glance",
+  "workspace_description": "Start with the dashboard to see progress, priorities and the next useful action.",
+  "journal_title": "Document a workday",
+  "journal_description": "Add context, hours, learning, tasks and evidence. Autosave protects every change.",
+  "analytics_title": "Understand your progress",
+  "analytics_description": "Use date, category and work-mode filters to turn your journal into clear trends.",
+  "reports_title": "Build a professional report",
+  "reports_description": "Choose a concise, standard or complete level so the report stays relevant and readable.",
+  "step": "Step {{current}} of {{total}}",
+  "close": "Close the guide",
+  "skip": "Skip for now",
+  "next": "Next",
+  "start": "Open this page"
+}

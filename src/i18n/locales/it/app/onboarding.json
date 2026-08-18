@@ -1,0 +1,15 @@
+{
+  "workspace_title": "Il tuo spazio di lavoro at un glance",
+  "workspace_description": "Start con il pannello a see progresso, priorities e il successivo useful azione.",
+  "journal_title": "Document un workday",
+  "journal_description": "Aggiungere context, ore, apprendimento, attività e evidenze. Autosave protects ogni change.",
+  "analytics_title": "Understand il tuo progresso",
+  "analytics_description": "Use data, categoria e work-mode filtri a turn il tuo diario into cancellare trends.",
+  "reports_title": "Build un professionale rapporto",
+  "reports_description": "Choose un concise, standard o completare level so il rapporto stays relevant e readable.",
+  "step": "Step {{current}} di {{total}}",
+  "close": "Chiudere il guide",
+  "skip": "Skip per now",
+  "next": "Successivo",
+  "start": "Aprire questo pagina"
+}

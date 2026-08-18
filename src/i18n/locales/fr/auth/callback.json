@@ -1,0 +1,8 @@
+{
+  "back_to_sign_in": "Retour à la connexion",
+  "practicora_is_completing_sign_in_and_automatically_resolving_your_workspace_and_": "Practicora termine la connexion et reconnaît automatiquement votre espace et votre rôle.",
+  "secure_sign_in": "Connexion sécurisée",
+  "sign_in_interrupted": "Connexion interrompue",
+  "supabase_is_not_configured": "Supabase n’est pas configuré.",
+  "the_sign_in_could_not_be_confirmed": "La connexion n’a pas pu être confirmée."
+}

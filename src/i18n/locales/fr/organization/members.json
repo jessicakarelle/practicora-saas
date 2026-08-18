@@ -1,0 +1,20 @@
+{
+  "administrator": "Administration",
+  "all_roles": "Tous les rôles",
+  "change_the_filters_or_invite_a_new_member": "Modifiez les filtres ou envoyez une invitation à un nouveau membre.",
+  "en_ca": "fr-CA",
+  "joined": "Adhésion",
+  "manage_invitations": "Gérer les invitations",
+  "member": "Membre",
+  "members_and_roles": "Membres et rôles",
+  "no_members_found": "Aucun membre trouvé",
+  "owner": "Propriétaire",
+  "program_manager": "Responsable de programme",
+  "roles": "Rôles",
+  "roles_are_assigned_through_invitations_or_by_an_authorized_administrator_they_ar": "Les rôles sont attribués par invitation ou par un administrateur autorisé. Ils ne sont jamais choisis librement à l’inscription.",
+  "search_name_or_email": "Rechercher un nom ou courriel…",
+  "status": "Statut",
+  "student": "Étudiant",
+  "supervisor": "Superviseur",
+  "teacher": "Enseignant"
+}

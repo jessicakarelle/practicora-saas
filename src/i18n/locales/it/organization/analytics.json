@@ -1,0 +1,21 @@
+{
+  "at_risk_placements": "At-risk collocamenti",
+  "average_completion": "Media completion",
+  "completion": "Completion",
+  "distribution_of_drafts_submissions_changes_and_approvals": "Distribution di bozze, submissions, changes e approvals.",
+  "hours_completion": "Ore completion",
+  "institution_analytics": "Istituzione analisi",
+  "no_placements_to_analyze": "Nessun collocamenti a analyze.",
+  "no_reports_to_analyze": "Nessun rapporti a analyze.",
+  "percentage_of_required_placement_hours": "Percentage di obbligatorio collocamento ore.",
+  "report_statuses": "Rapporto statuses",
+  "reports_to_process": "Rapporti a process",
+  "students": "Studenti",
+  "turn_hours_submissions_and_approvals_into_progress_indicators_without_exposing_o": "Turn ore, submissions e approvals into progresso indicators senza exposing one studente’s dati a another.",
+  "filters": "Analisi filtri",
+  "filtered_summary": "{{placements}} collocamenti e {{reports}} rapporti",
+  "clear_filters": "Cancella filtri",
+  "search_placeholder": "Cercare studente, azienda o supervisore…",
+  "all_placement_statuses": "Tutti collocamento statuses",
+  "all_report_statuses": "Tutti rapporto statuses"
+}

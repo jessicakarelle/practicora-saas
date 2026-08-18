@@ -1,0 +1,15 @@
+{
+  "workspace_title": "Votre espace en un coup d’œil",
+  "workspace_description": "Commencez par le tableau de bord pour voir la progression, les priorités et la prochaine action utile.",
+  "journal_title": "Documenter une journée",
+  "journal_description": "Ajoutez le contexte, les heures, les apprentissages, les tâches et les preuves. La sauvegarde automatique protège chaque modification.",
+  "analytics_title": "Comprendre votre progression",
+  "analytics_description": "Utilisez les filtres de dates, de catégories et de modes de travail pour transformer le journal en tendances claires.",
+  "reports_title": "Construire un rapport professionnel",
+  "reports_description": "Choisissez un niveau concis, standard ou complet afin que le rapport reste pertinent et lisible.",
+  "step": "Étape {{current}} sur {{total}}",
+  "close": "Fermer le guide",
+  "skip": "Passer pour le moment",
+  "next": "Suivant",
+  "start": "Ouvrir cette page"
+}

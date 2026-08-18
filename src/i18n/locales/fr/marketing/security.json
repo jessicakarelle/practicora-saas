@@ -1,0 +1,16 @@
+{
+  "metadata_title": "Sécurité | Practicora",
+  "metadata_description": "Direction actuelle de sécurité, limites de rôles et responsabilités de déploiement.",
+  "eyebrow": "Confiance",
+  "title": "Une sécurité fondée sur des limites claires",
+  "description": "Practicora combine continuité locale, contrôles de compte et accès selon les rôles. La sécurité en production dépend encore d’une configuration et d’une révision correctes.",
+  "item_1_title": "Accès selon les rôles",
+  "item_1_description": "La navigation et les routes protégées vérifient les permissions au lieu de dépendre seulement de boutons masqués.",
+  "item_2_title": "Limites des données",
+  "item_2_description": "Les espaces personnels et institutionnels sont séparés conceptuellement et exigent des politiques de base de données dans un environnement Supabase réel.",
+  "item_3_title": "Protection du compte",
+  "item_3_description": "La vérification du courriel, la récupération du mot de passe, la protection NIP facultative et les confirmations explicites soutiennent un accès plus sûr.",
+  "item_4_title": "Gouvernance visible",
+  "item_4_description": "L’audit, le soutien et les contrôles globaux sont réservés aux rôles autorisés et documentés dans le centre de contrôle.",
+  "review_notice": "Cette page décrit la direction d’implémentation. Elle ne constitue ni une certification, ni un test d’intrusion, ni un avis juridique de sécurité."
+}

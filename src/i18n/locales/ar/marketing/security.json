@@ -1,0 +1,16 @@
+{
+  "metadata_title": "الأمان | Practicora",
+  "metadata_description": "الحالي الأمان direction, الدور boundaries و deployment responsibilities.",
+  "eyebrow": "Trust",
+  "title": "الأمان designed around مسح boundaries",
+  "description": "Practicora combines local-first continuity, الحساب controls و وصول حسب الدور. Production safety still depends on correct deployment و مراجعة.",
+  "item_1_title": "وصول حسب الدور",
+  "item_1_description": "Navigation و protected routes verify الصلاحيات instead من relying فقط on hidden buttons.",
+  "item_2_title": "البيانات boundaries",
+  "item_2_description": "شخصي و مؤسسي مساحات العمل هي separated conceptually و require database policies في live Supabase environment.",
+  "item_3_title": "الحساب الحماية",
+  "item_3_description": "البريد الإلكتروني التحقق, password recovery, اختياري PIN الحماية و explicit confirmation الدعم safer الوصول.",
+  "item_4_title": "Visible governance",
+  "item_4_description": "التدقيق, الدعم و المنصة controls هي reserved لـ authorized الأدوار و documented في ال التحكم centre.",
+  "review_notice": "هذا الصفحة describes ال implementation direction. It هو ليس certification, penetration test أو legal الأمان opinion."
+}

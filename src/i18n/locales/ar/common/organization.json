@@ -1,0 +1,16 @@
+{
+  "open_workspaces": "فتح مساحات العمل",
+  "organization_fallback": "المؤسسة",
+  "personal_workspace": "المساحة الشخصية",
+  "platform_access_required": "المنصة الوصول مطلوب",
+  "platform_access_required_description": "هذا الصفحة هو reserved لـ authorized Practicora التحكم Center الأعضاء. Switch مساحات العمل أو الطلب المنصة الصلاحية.",
+  "platform_workspace": "Practicora التحكم Center",
+  "platform_workspace_description": "Platform-wide oversight من Practicora المؤسسات, المستخدمون, الخطط, الأمان, و البيانات.",
+  "role_admin": "Administrator",
+  "role_owner": "Owner",
+  "role_program_manager": "البرنامج manager",
+  "role_student": "الطالب",
+  "role_supervisor": "المشرف",
+  "role_teacher": "الأستاذ",
+  "demo_institution_name": "معهد Practicora التجريبي"
+}

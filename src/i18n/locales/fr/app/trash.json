@@ -1,0 +1,13 @@
+{
+  "delete": "Supprimer",
+  "delete_permanently": "Supprimer définitivement?",
+  "delete_permanently_2": "Supprimer définitivement",
+  "deleted_entries_goals_and_notes_will_appear_here": "Les journées, objectifs et notes supprimés apparaîtront ici.",
+  "en_ca": "fr-CA",
+  "item_restored": "Élément restauré.",
+  "keep": "Conserver",
+  "restore": "Restaurer",
+  "restore_accidentally_deleted_items_or_permanently_remove_them_with_a_clear_confi": "Restaurez les éléments supprimés par erreur ou effacez-les définitivement avec une confirmation claire.",
+  "trash": "Corbeille",
+  "trash_is_empty": "La corbeille est vide"
+}

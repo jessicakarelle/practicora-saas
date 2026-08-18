@@ -1,0 +1,13 @@
+{
+  "delete": "Eliminare",
+  "delete_permanently": "Eliminare permanently?",
+  "delete_permanently_2": "Eliminare permanently",
+  "deleted_entries_goals_and_notes_will_appear_here": "Deleted voci, obiettivi e note verrà appear here.",
+  "en_ca": "en-CA",
+  "item_restored": "Item restored.",
+  "keep": "Keep",
+  "restore": "Ripristinare",
+  "restore_accidentally_deleted_items_or_permanently_remove_them_with_a_clear_confi": "Ripristinare accidentally deleted items o permanently rimuovere them con un cancellare confirmation.",
+  "trash": "Trash",
+  "trash_is_empty": "Trash è empty"
+}

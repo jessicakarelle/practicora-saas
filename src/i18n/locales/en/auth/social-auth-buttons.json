@@ -1,0 +1,19 @@
+{
+  "cards_visible_notice": "Providers remain visible. Those not configured yet clearly show the required action.",
+  "close": "Close",
+  "configuration_required": "Configuration required",
+  "configuration_required_description": "Sign-in with {{provider}} must first be enabled in Supabase and in Practicora’s public configuration.",
+  "continue_with": "Continue with",
+  "or_with_your_email": "or with your email",
+  "provider_apple": "Apple",
+  "provider_azure": "Microsoft",
+  "provider_github": "GitHub",
+  "provider_google": "Google",
+  "provider_not_enabled": "{{provider}} is unavailable: {{message}}",
+  "ready": "Ready",
+  "redirecting": "Redirecting…",
+  "setup_required": "Setup required",
+  "sign_up_with": "Sign up with",
+  "unable_to_sign_in": "Unable to sign in",
+  "or_continue_with": "Or continue with"
+}

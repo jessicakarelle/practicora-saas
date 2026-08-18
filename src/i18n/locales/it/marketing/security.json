@@ -1,0 +1,16 @@
+{
+  "metadata_title": "Sicurezza | Practicora",
+  "metadata_description": "Attuale sicurezza direction, ruolo boundaries e deployment responsibilities.",
+  "eyebrow": "Trust",
+  "title": "Sicurezza designed around cancellare boundaries",
+  "description": "Practicora combines local-first continuity, account controls e accesso basato sul ruolo. Production safety still depends on correct deployment e revisionare.",
+  "item_1_title": "Accesso basato sul ruolo",
+  "item_1_description": "Navigation e protected routes verify autorizzazioni instead di relying solo on hidden buttons.",
+  "item_2_title": "Dati boundaries",
+  "item_2_description": "Personale e istituzionale spazi di lavoro sono separated conceptually e require database policies in un live Supabase environment.",
+  "item_3_title": "Account protezione",
+  "item_3_description": "E-mail verifica, password recovery, facoltativo PIN protezione e explicit confirmation supporto safer accesso.",
+  "item_4_title": "Visible governance",
+  "item_4_description": "Audit, supporto e piattaforma controls sono reserved per authorized ruoli e documented in il controllo centre.",
+  "review_notice": "Questo pagina describes il implementation direction. It è non un certification, penetration test o legal sicurezza opinion."
+}

@@ -1,0 +1,13 @@
+{
+  "action": "الإجراء",
+  "actor": "Actor",
+  "date": "التاريخ",
+  "description": "مراجعة كل حساس decision made من ال التحكم Center.",
+  "empty": "لا التدقيق event.",
+  "metadata": "Metadata",
+  "reason": "السبب",
+  "system": "System",
+  "target": "Target",
+  "title": "عالمي التدقيق",
+  "unknown_actor": "Unknown actor"
+}

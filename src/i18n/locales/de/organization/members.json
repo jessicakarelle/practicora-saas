@@ -1,0 +1,20 @@
+{
+  "administrator": "Administrator",
+  "all_roles": "Alle Rollen",
+  "change_the_filters_or_invite_a_new_member": "Change der Filter oder einladen ein neu Mitglied.",
+  "en_ca": "en-CA",
+  "joined": "Joined",
+  "manage_invitations": "Verwalten invitations",
+  "member": "Mitglied",
+  "members_and_roles": "Mitglieder und Rollen",
+  "no_members_found": "Keine Mitglieder found",
+  "owner": "Owner",
+  "program_manager": "Programm manager",
+  "roles": "Rollen",
+  "roles_are_assigned_through_invitations_or_by_an_authorized_administrator_they_ar": "Rollen sind assigned through invitations oder durch ein authorized administrator. They sind never self-selected during sign-up.",
+  "search_name_or_email": "Suchen Name oder E-Mail…",
+  "status": "Status",
+  "student": "Studierende",
+  "supervisor": "Betreuung",
+  "teacher": "Lehrkraft"
+}

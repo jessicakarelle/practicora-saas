@@ -1,0 +1,16 @@
+{
+  "attachments": "{{count}} pièce(s) jointe(s)",
+  "cancel": "Annuler",
+  "create": "Créer un brouillon",
+  "delete": "Supprimer",
+  "delete_description": "Les données et les pièces jointes locales de ce brouillon seront supprimées.",
+  "delete_title": "Supprimer ce brouillon?",
+  "description": "Chaque nouvelle journée est conservée automatiquement jusqu’à sa publication dans le journal.",
+  "empty_description": "Commencez une journée : vos modifications seront enregistrées automatiquement ici.",
+  "empty_summary": "Aucun résumé n’a encore été saisi.",
+  "empty_title": "Aucun brouillon en cours",
+  "new": "Nouvelle journée",
+  "resume": "Reprendre",
+  "title": "Brouillons",
+  "untitled": "Journée sans titre"
+}

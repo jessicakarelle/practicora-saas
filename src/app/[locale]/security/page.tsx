@@ -1,0 +1,8 @@
+import type { Metadata } from "next";
+import { KeyRound, ShieldCheck, Database, Eye } from "lucide-react";
+import { translate as t } from "@/i18n";
+import { MarketingPageShell } from "@/components/marketing/page-shell";
+import { Card, CardContent } from "@/components/ui/card";
+const icons=[KeyRound,Database,ShieldCheck,Eye] as const;
+export async function generateMetadata({params}:{params:Promise<{locale:string}>}):Promise<Metadata>{const{locale}=await params;return{title:t(locale,"marketing.security.metadata_title"),description:t(locale,"marketing.security.metadata_description")}}
+export default async function SecurityPage({params}:{params:Promise<{locale:string}>}){const{locale}=await params;return <MarketingPageShell locale={locale} eyebrow={t(locale,"marketing.security.eyebrow")} title={t(locale,"marketing.security.title")} description={t(locale,"marketing.security.description")}><section className="mx-auto max-w-[1120px] px-4 py-14 sm:px-6 lg:px-8"><div className="grid gap-5 md:grid-cols-2">{icons.map((Icon,index)=><Card key={index}><CardContent><span className="flex size-10 items-center justify-center rounded-xl bg-primary-softer text-primary"><Icon className="size-4.5"/></span><h2 className="mt-5 text-lg font-extrabold">{t(locale,`marketing.security.item_${index+1}_title`)}</h2><p className="mt-2 text-sm leading-6 text-muted">{t(locale,`marketing.security.item_${index+1}_description`)}</p></CardContent></Card>)}</div><p className="mt-6 rounded-xl border border-warning/25 bg-warning/8 p-4 text-sm leading-6 text-muted-strong">{t(locale,"marketing.security.review_notice")}</p></section></MarketingPageShell>}

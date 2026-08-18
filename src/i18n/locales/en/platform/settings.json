@@ -1,0 +1,23 @@
+{
+  "billing_mode": "Billing enforcement mode",
+  "billing_section": "Billing",
+  "currency": "Primary currency",
+  "data_section": "Data and retention",
+  "days": "days",
+  "deletion_grace": "Deletion grace period",
+  "description": "Global security, billing, retention and SaaS behavior settings.",
+  "enforce": "Enforce limits",
+  "export_expiry": "Export expiry",
+  "manual": "Manual",
+  "minutes": "minutes",
+  "observe": "Observe without blocking",
+  "provider": "Payment provider",
+  "read_only": "Read only",
+  "save_error": "Unable to save configuration.",
+  "saved": "Configuration saved.",
+  "saved_automatically": "Changes will be saved automatically when the configuration connector is enabled.",
+  "security_section": "Security",
+  "stripe": "Stripe",
+  "support_duration": "Default support session duration",
+  "title": "Platform configuration"
+}

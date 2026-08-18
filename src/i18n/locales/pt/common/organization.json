@@ -1,0 +1,16 @@
+{
+  "open_workspaces": "Abrir espaços de trabalho",
+  "organization_fallback": "Organização",
+  "personal_workspace": "Espaço pessoal",
+  "platform_access_required": "Plataforma acesso obrigatório",
+  "platform_access_required_description": "Este página é reserved para authorized Practicora Controle Center membros. Switch espaços de trabalho ou solicitação um plataforma permissão.",
+  "platform_workspace": "Practicora Controle Center",
+  "platform_workspace_description": "Platform-wide oversight de Practicora instituições, usuários, planos, segurança, e dados.",
+  "role_admin": "Administrator",
+  "role_owner": "Owner",
+  "role_program_manager": "Programa manager",
+  "role_student": "Estudante",
+  "role_supervisor": "Supervisor",
+  "role_teacher": "Professor",
+  "demo_institution_name": "Instituto Practicora Demo"
+}

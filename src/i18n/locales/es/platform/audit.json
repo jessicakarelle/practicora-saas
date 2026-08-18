@@ -1,0 +1,13 @@
+{
+  "action": "Acción",
+  "actor": "Actor",
+  "date": "Fecha",
+  "description": "Revisar cada sensible decision made desde el Control Center.",
+  "empty": "Sin auditoría event.",
+  "metadata": "Metadata",
+  "reason": "Motivo",
+  "system": "System",
+  "target": "Target",
+  "title": "Global auditoría",
+  "unknown_actor": "Unknown actor"
+}

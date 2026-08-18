@@ -1,0 +1,12 @@
+{
+  "advanced_reports_description": "Studio de rapports, exports et flux de révision.",
+  "advanced_reports_name": "Rapports avancés",
+  "billing_enforcement_description": "Bloque les fonctionnalités lorsque les droits ou quotas sont dépassés.",
+  "billing_enforcement_name": "Application des limites",
+  "institutional_core_description": "Organisations, rôles, cohortes, stages et validations.",
+  "institutional_core_name": "Noyau institutionnel",
+  "social_auth_description": "Google, GitHub, Microsoft et Apple via Supabase Auth.",
+  "social_auth_name": "Connexion sociale",
+  "support_sessions_description": "Accès temporaire, justifié et audité aux données ciblées.",
+  "support_sessions_name": "Sessions d’assistance"
+}

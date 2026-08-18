@@ -1,0 +1,13 @@
+{
+  "description": "Monitor counters che drive piano limits e future capacity needs.",
+  "empty": "Nessun utilizzo counters recorded.",
+  "feature": "Funzionalità",
+  "from_to": "Da {{start}} a {{end}}",
+  "organization": "Istituzione",
+  "period": "Periodo",
+  "quantity": "Quantity",
+  "subject": "Account o istituzione",
+  "title": "Utilizzo e quotas",
+  "updated": "Updated",
+  "user": "Utente"
+}

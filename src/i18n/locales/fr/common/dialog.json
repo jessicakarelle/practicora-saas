@@ -1,0 +1,9 @@
+{
+  "cancel": "Annuler",
+  "close": "Fermer",
+  "confirm_action": "Confirmer l’action",
+  "okay": "OK",
+  "reason_label": "Motif détaillé",
+  "reason_minimum": "Le motif doit contenir au moins 10 caractères.",
+  "reason_placeholder": "Expliquez précisément cette décision…"
+}

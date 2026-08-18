@@ -1,0 +1,23 @@
+{
+  "cancel": "Annuler",
+  "code": "Code",
+  "computer_science_technology": "Techniques de l’informatique",
+  "create": "Créer",
+  "create_program": "Créer un programme",
+  "create_the_first_program_to_define_requirements_and_attach_cohorts": "Créez le premier programme pour définir les exigences et rattacher des cohortes.",
+  "creating": "Création…",
+  "define_shared_requirements_minimum_hours_and_the_tracking_structure_for_cohorts": "Définissez les exigences communes, les heures minimales et la structure de suivi des cohortes.",
+  "description": "Description",
+  "goals_requirements_and_program_context": "Objectifs, exigences et contexte du programme…",
+  "new_program": "Nouveau programme",
+  "no_code": "Sans code",
+  "no_description": "Aucune description.",
+  "no_programs": "Aucun programme",
+  "program_created": "Programme créé.",
+  "program_name": "Nom du programme",
+  "programs": "Programmes",
+  "required_hours": "heures requises",
+  "required_hours_2": "Heures minimales",
+  "these_settings_can_later_be_reused_across_multiple_cohorts": "Les paramètres pourront ensuite être réutilisés par plusieurs cohortes.",
+  "program_code_placeholder": "420.B0"
+}

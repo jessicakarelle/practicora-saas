@@ -1,0 +1,13 @@
+{
+  "action": "Action",
+  "actor": "Acteur",
+  "date": "Date",
+  "description": "Consultez toutes les décisions sensibles effectuées depuis le Centre de contrôle.",
+  "empty": "Aucun événement d’audit.",
+  "metadata": "Métadonnées",
+  "reason": "Motif",
+  "system": "Système",
+  "target": "Cible",
+  "title": "Audit global",
+  "unknown_actor": "Acteur inconnu"
+}

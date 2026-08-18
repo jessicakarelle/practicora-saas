@@ -1,0 +1,13 @@
+{
+  "description": "Surveillez les compteurs qui déterminent les limites des plans et les besoins futurs de capacité.",
+  "empty": "Aucun compteur d’utilisation enregistré.",
+  "feature": "Fonctionnalité",
+  "from_to": "Du {{start}} au {{end}}",
+  "organization": "Institution",
+  "period": "Période",
+  "quantity": "Quantité",
+  "subject": "Compte ou institution",
+  "title": "Utilisation et quotas",
+  "updated": "Mise à jour",
+  "user": "Utilisateur"
+}

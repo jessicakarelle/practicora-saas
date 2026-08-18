@@ -1,0 +1,20 @@
+{
+  "admin_description": "General amministrazione senza il ability a rimuovere il ultimo Direzione piattaforma.",
+  "admin_name": "Piattaforma administrator",
+  "auditor_description": "Read accesso a controls, events, risks e sensibile decisions.",
+  "auditor_name": "Piattaforma auditor",
+  "finance_description": "Management di piani, prices, abbonamenti, quotas e commercial indicators.",
+  "finance_name": "Finance e abbonamenti",
+  "operations_description": "Management di istituzioni, utenti, supporto e dati operazioni.",
+  "operations_name": "Piattaforma operazioni",
+  "owner_description": "Full Practicora controllo, last-owner protezione e accesso a critico decisions.",
+  "owner_name": "Direzione piattaforma",
+  "platform_admin": "Piattaforma administrator",
+  "platform_auditor": "Piattaforma auditor",
+  "platform_finance": "Finance e abbonamenti",
+  "platform_operations": "Piattaforma operazioni",
+  "platform_owner": "Direzione piattaforma",
+  "platform_support": "Piattaforma supporto",
+  "support_description": "Account diagnostics e fully audited temporary supporto sessioni.",
+  "support_name": "Piattaforma supporto"
+}

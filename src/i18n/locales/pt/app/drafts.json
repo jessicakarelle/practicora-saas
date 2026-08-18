@@ -1,0 +1,16 @@
+{
+  "attachments": "{{count}} anexo(s)",
+  "cancel": "Cancelar",
+  "create": "Criar um rascunho",
+  "delete": "Excluir",
+  "delete_description": "Este rascunho’s local dados e anexos será ser deleted.",
+  "delete_title": "Excluir este rascunho?",
+  "description": "Cada novo dia é salvo automaticamente until it é published para o diário.",
+  "empty_description": "Start um dia e seu changes será ser salvo here automaticamente.",
+  "empty_summary": "Sem resumo has been entered yet.",
+  "empty_title": "Sem rascunhos em progresso",
+  "new": "Novo dia",
+  "resume": "Resume",
+  "title": "Rascunhos",
+  "untitled": "Untitled dia"
+}

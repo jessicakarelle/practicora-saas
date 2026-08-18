@@ -1,0 +1,16 @@
+{
+  "attachments": "{{count}} allegato(s)",
+  "cancel": "Annullare",
+  "create": "Creare un bozza",
+  "delete": "Eliminare",
+  "delete_description": "Questo bozza’s locale dati e allegati verrà essere deleted.",
+  "delete_title": "Eliminare questo bozza?",
+  "description": "Ogni nuovo giorno è salvato automaticamente until it è published a il diario.",
+  "empty_description": "Start un giorno e il tuo changes verrà essere salvato here automaticamente.",
+  "empty_summary": "Nessun riepilogo has been entered yet.",
+  "empty_title": "Nessun bozze in progresso",
+  "new": "Nuovo giorno",
+  "resume": "Resume",
+  "title": "Bozze",
+  "untitled": "Untitled giorno"
+}

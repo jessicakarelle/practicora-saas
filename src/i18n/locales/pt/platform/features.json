@@ -1,0 +1,11 @@
+{
+  "autosave": "Cada change é salvo immediately e audited.",
+  "description": "Gradually enable sensível capabilities e controle their rollout percentage.",
+  "disabled": "Desativado",
+  "enabled": "Ativado",
+  "operation_failed": "Não foi possível para atualizar o funcionalidade.",
+  "rollout": "Rollout",
+  "rollout_help": "Percentage de eligible accounts receiving este funcionalidade.",
+  "saved": "Funcionalidade flag updated.",
+  "title": "Funcionalidade rollout"
+}

@@ -1,0 +1,9 @@
+{
+  "cancel": "Abbrechen",
+  "close": "Schließen",
+  "confirm_action": "Bestätigen Aktion",
+  "okay": "OK",
+  "reason_label": "Detailed Grund",
+  "reason_minimum": "Der Grund muss contain at least 10 characters.",
+  "reason_placeholder": "Explain dies decision precisely…"
+}
